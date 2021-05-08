@@ -3,7 +3,6 @@ layout: post
 title:  "profile"
 subtitle: "I introduce myself"
 date: 2021-05-08 12:00 
-categories: ['introduce']
 ---
 
 

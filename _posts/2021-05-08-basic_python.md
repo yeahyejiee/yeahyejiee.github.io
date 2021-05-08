@@ -1,3 +1,10 @@
+---
+layout: post
+title:  "자료형과 기본 자료형"
+subtitle: ""
+date: 2021-05-08 12:00 
+categories: ['programing','python']
+---
 
 # 자료형과 기본 자료형
 

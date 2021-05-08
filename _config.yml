@@ -95,7 +95,7 @@ analytics:
 # Site Author
 author:
   name             : "Hong Ye Ji"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/ima.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "student"
   location         : "Korea"
   email            :

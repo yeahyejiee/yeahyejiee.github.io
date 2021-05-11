@@ -1,12 +1,10 @@
 ---
 layout: archive
-summary: Introduce myself!
 author: Hone Ye ji
 categories: profile
-toc: true
-toc_label: "My Table of Contents"
-toc_icon: "cog"
 ---
+Hello. I introduce myself.
+
 
 ### 1. Achievement
 -------------

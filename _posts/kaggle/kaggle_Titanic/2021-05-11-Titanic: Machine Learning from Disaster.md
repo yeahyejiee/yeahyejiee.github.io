@@ -1,9 +1,9 @@
 ---
-layout:categories
+layout: categories
 categories: 
  -Kaggle
 tags:
-  -kaggle
+ -kaggle
 ---
 
 ```python

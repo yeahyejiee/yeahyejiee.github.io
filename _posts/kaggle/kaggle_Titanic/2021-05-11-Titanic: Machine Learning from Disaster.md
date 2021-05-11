@@ -1,7 +1,8 @@
 ---
-layout: categories
-categories: Kaggle
-tags: kaggle
+categories: 
+ - Kaggle
+tags: 
+ - kaggle
 ---
 
 ```python

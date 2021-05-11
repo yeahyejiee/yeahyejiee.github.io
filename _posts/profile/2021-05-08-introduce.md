@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "profile"
+categories:  "profile"
 ---
 
 

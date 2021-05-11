@@ -1,4 +1,6 @@
 ---
+summary: Introduce myself!
+author: Hone Ye ji
 categories: 
  - Kaggle
 tags: 

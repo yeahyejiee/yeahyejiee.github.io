@@ -1,19 +1,18 @@
 ---
 layout: post
 title:  "profile"
-subtitle: "I introduce myself"
 ---
 
 
 # INTRODUCE
 
-### Achievement
+### 1. Achievement
 -------------
 **2016 - 2020**      Sungshin Women's University ( Bachelor of Statistics )  
 **2020 - present**   University of Seoul Graduate School (Department of Urban Big Data Convergence) 
 
 
-### Career
+### 2. Career
 ------------
 * **2016.08 - 2017.08**   Sungshin Women's University Public Relations Ambassador Forus 18th   
 * **2017.03 - 2017.06**   Dreamers Marketing School 5th  
@@ -26,11 +25,11 @@ subtitle: "I introduce myself"
 * **2021.03 - 2021.06**   learn Arcgis  
   
   
-### Interest
+### 3. Interest
 -----------
 text-mining , Machine learning ...
 
 
-### More 
+#### More 
 ----
 Blog : <https://blog.naver.com/dreamhigh151>

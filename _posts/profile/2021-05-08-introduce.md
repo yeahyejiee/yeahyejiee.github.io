@@ -1,7 +1,6 @@
 ---
 layout: archive
 author: Hone Ye ji
-categories: profile
 ---
 Hello. I introduce myself.
 

@@ -6,7 +6,6 @@ categories: profile
 ---
 
 
-# INTRODUCE
 
 ### 1. Achievement
 -------------

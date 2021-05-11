@@ -7,8 +7,8 @@ subtitle: "I introduce myself"
 
 # INTRODUCE
 -------------
->> **2016 - 2020**      Sungshin Women's University ( Bachelor of Statistics )  
->> **2020 - present**   University of Seoul Graduate School (Department of Urban Big Data Convergence) 
+**2016 - 2020**      Sungshin Women's University ( Bachelor of Statistics )  
+**2020 - present**   University of Seoul Graduate School (Department of Urban Big Data Convergence) 
 
 
 # CAREER
@@ -29,4 +29,6 @@ subtitle: "I introduce myself"
 > text-mining , Machine learning ...
 
 
-
+## more 
+--
+Blog : <https://blog.naver.com/dreamhigh151>

@@ -28,9 +28,9 @@ subtitle: "I introduce myself"
   
 ### Interest
 -----------
-> text-mining , Machine learning ...
+text-mining , Machine learning ...
 
 
-#### More 
+### More 
 ----
 Blog : <https://blog.naver.com/dreamhigh151>

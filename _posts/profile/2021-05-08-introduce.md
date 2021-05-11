@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: archive
 summary: Introduce myself!
 author: Hone Ye ji
 date: '2021-05-08'

@@ -32,5 +32,5 @@ subtitle: "I introduce myself"
 
 
 #### More 
---
+----
 Blog : <https://blog.naver.com/dreamhigh151>

@@ -2,16 +2,17 @@
 layout: post
 title:  "profile"
 subtitle: "I introduce myself"
-date: 2021-05-08 12:00 
 ---
 
 
 # INTRODUCE
+-------------
 2016 - 2020      Sungshin Women's University ( Bachelor of Statistics )  
 2020 - present   University of Seoul Graduate School (Department of Urban Big Data Convergence) 
 
 
 # CAREER
+------------
 - 2016.08 - 2017.08   Sungshin Women's University Public Relations Ambassador Forus 18th 
 - 2017.03 - 2017.06   Dreamers Marketing School 5th 
 - 2017.07 - 2018.02   KT&G Imagination Volunteer 14th
@@ -24,6 +25,7 @@ date: 2021-05-08 12:00
   
   
 # interest
+-----------
 text-mining , Machine learning ...
 
 

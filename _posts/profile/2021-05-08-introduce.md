@@ -13,8 +13,8 @@ subtitle: "I introduce myself"
 
 # CAREER
 ------------
-> 2016.08 - 2017.08   Sungshin Women's University Public Relations Ambassador Forus 18th 
-> 2017.03 - 2017.06   Dreamers Marketing School 5th 
+> 1: 2016.08 - 2017.08   Sungshin Women's University Public Relations Ambassador Forus 18th 
+> 2: 2017.03 - 2017.06   Dreamers Marketing School 5th 
 > 2017.07 - 2018.02   KT&G Imagination Volunteer 14th
 > 2018.01 - 2019.01   BOAZ(Bigdata Union Club) 10th  Data analysis  / PR Team Leader
 > 2019.03 - 2019.06   LG CNS Coding Genius 5th

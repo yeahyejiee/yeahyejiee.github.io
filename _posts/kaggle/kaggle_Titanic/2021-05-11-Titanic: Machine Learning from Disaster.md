@@ -1,5 +1,9 @@
 ---
-categories: "Kaggle"
+layout:categories
+categories: 
+ -Kaggle
+tags:
+  -kaggle
 ---
 
 ```python

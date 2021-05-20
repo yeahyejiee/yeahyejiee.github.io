@@ -1,3 +1,14 @@
+---
+
+author: Hone Ye ji
+categories: 
+ - Kaggle
+tags: 
+ - kaggle
+---
+kaggle의 House price를 연습해보겠습니다.
+
+
 ### House Price
 #### id로 salePrice를 예측
 

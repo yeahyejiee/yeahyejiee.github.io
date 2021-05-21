@@ -417,7 +417,7 @@ bar_chart("Pclass")
 ```
 
 
-![png](output_19_0.png)
+![output_19_0](https://user-images.githubusercontent.com/45659433/119081843-d4bc2600-ba37-11eb-88f5-ad9854ba4b9b.png)
 
 
 - Sex: 남성일 경우 사망할 경우 많음
@@ -428,7 +428,7 @@ bar_chart('Sex')
 ```
 
 
-![png](output_21_0.png)
+![output_21_0](https://user-images.githubusercontent.com/45659433/119081845-d554bc80-ba37-11eb-9117-76bf720f5add.png)
 
 
 - 'Embarked': S일수록 사망
@@ -438,8 +438,7 @@ bar_chart('Sex')
 bar_chart("Embarked")
 ```
 
-
-![png](output_23_0.png)
+![output_23_0](https://user-images.githubusercontent.com/45659433/119081846-d554bc80-ba37-11eb-928f-c8639fb85a08.png)
 
 
 - SibSp: 동승한 형제나 배우자가 없을수록 사망 많음
@@ -450,7 +449,7 @@ bar_chart("SibSp")
 ```
 
 
-![png](output_25_0.png)
+![output_25_0](https://user-images.githubusercontent.com/45659433/119081847-d5ed5300-ba37-11eb-91d4-b321a04b551d.png)
 
 
 - Parch: 부모님이나 자녀가 동승할 경우 살 확률이 높음
@@ -460,8 +459,7 @@ bar_chart("SibSp")
 bar_chart("Parch")
 ```
 
-
-![png](output_27_0.png)
+![output_27_0](https://user-images.githubusercontent.com/45659433/119081848-d685e980-ba37-11eb-9df8-773df208475d.png)
 
 
 ## 3) feature engineering
@@ -790,7 +788,7 @@ bar_chart('title')
 ```
 
 
-![png](output_36_0.png)
+![output_36_0](https://user-images.githubusercontent.com/45659433/119081849-d685e980-ba37-11eb-87fe-6d5ea0b8926a.png)
 
 
 Mr(남자)=0, Mrs, Mis(여자)=1  
@@ -939,8 +937,7 @@ train.head()
 bar_chart('Sex')
 ```
 
-
-![png](output_41_0.png)
+![output_41_0](https://user-images.githubusercontent.com/45659433/119081839-d4238f80-ba37-11eb-8353-40822e84b4cd.png)
 
 
 남자가 많이 사망한 것을 알 수 있음
@@ -1041,7 +1038,7 @@ train["Age"].plot.hist(bins=30)
 
 
 
-![png](output_46_1.png)
+![output_46_1](https://user-images.githubusercontent.com/45659433/119081858-d980da00-ba37-11eb-9965-3b3da52be201.png)
 
 
 
@@ -1053,7 +1050,7 @@ plt.show()
 ```
 
 
-![png](output_47_0.png)
+![output_47_0](https://user-images.githubusercontent.com/45659433/119081861-da197080-ba37-11eb-83be-656d759e405c.png)
 
 
 
@@ -1072,7 +1069,7 @@ plt.xlim(20,40)
 
 
 
-![png](output_48_1.png)
+![output_48_1](https://user-images.githubusercontent.com/45659433/119081863-da197080-ba37-11eb-9ed1-35ca3bf2dbff.png)
 
 
 ##### 나누는 기준
@@ -1229,7 +1226,7 @@ bar_chart('Age')
 ```
 
 
-![png](output_52_0.png)
+![output_52_0](https://user-images.githubusercontent.com/45659433/119081864-dab20700-ba37-11eb-8703-5b81976ceb63.png)
 
 
 21~35세 청년의 사망이 큼. 61세이상 노인의 대부분도 사망
@@ -1252,7 +1249,7 @@ df.plot(kind='bar',stacked=True, figsize=(10,5))
 
 
 
-![png](output_54_1.png)
+![output_54_1](https://user-images.githubusercontent.com/45659433/119081867-dab20700-ba37-11eb-9303-bed5d2e30973.png)
 
 
 3rd의 비중이 s가 큼
@@ -1362,9 +1359,7 @@ fare_survived.add_legend()
 plt.show()
 ```
 
-
-![png](output_62_0.png)
-
+![output_62_0](https://user-images.githubusercontent.com/45659433/119081852-d84fad00-ba37-11eb-9dc3-52250e308211.png)
 
 
 ```python
@@ -1602,7 +1597,7 @@ df.plot(kind='bar',stacked=True, figsize=(10,5))
 
 
 
-![png](output_68_1.png)
+![output_68_1](https://user-images.githubusercontent.com/45659433/119081855-d8e84380-ba37-11eb-82e0-d0c99977bbb5.png)
 
 
 - a,b,c,d,e => 1등급
@@ -1640,7 +1635,7 @@ plt.show()
 ```
 
 
-![png](output_74_0.png)
+![output_74_0](https://user-images.githubusercontent.com/45659433/119081857-d980da00-ba37-11eb-9b08-9ed9cc41e88f.png)
 
 
 

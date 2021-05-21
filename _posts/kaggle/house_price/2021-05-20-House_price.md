@@ -1146,8 +1146,7 @@ missing.plot.bar(figsize = (12,6))
 
 
 
-![png](output_22_1.png)
-
+![output_22_1](https://user-images.githubusercontent.com/45659433/119081383-d5a08800-ba36-11eb-9663-990665b09a22.png)
 
 LotFrontage, Fence, Alley, MiscFeature, PoolQC 의 변수들에서 결측치가 많이 발견
 
@@ -1249,8 +1248,7 @@ sns.heatmap(corr_data.corr(),square = True, linewidths = 0.1, cmap = colormap, l
 
 
 
-
-![png](output_30_1.png)
+![output_30_1](https://user-images.githubusercontent.com/45659433/119081384-d6391e80-ba36-11eb-8ef9-c2512a361e8d.png)
 
 
 
@@ -1279,8 +1277,7 @@ sns.heatmap(cm, vmax=.8, linewidths=0.1,square=True,annot=True,cmap=colormap,
 
 
 
-
-![png](output_31_2.png)
+![output_31_2](https://user-images.githubusercontent.com/45659433/119081385-d6391e80-ba36-11eb-9948-96635e7223cd.png)
 
 
 - GarageCars와 GarageArea =0.88
@@ -1296,7 +1293,7 @@ plt.show()
 ```
 
 
-![png](output_33_0.png)
+![output_33_0](https://user-images.githubusercontent.com/45659433/119081388-d6d1b500-ba36-11eb-84a2-278db4198c4d.png)
 
 
 
@@ -1331,11 +1328,11 @@ YearRemodAdd_scatter_plot.plot.scatter('YearRemodAdd','SalePrice')
 
 
 
-![png](output_34_2.png)
+![output_34_2](https://user-images.githubusercontent.com/45659433/119081390-d6d1b500-ba36-11eb-9410-4c993af132ef.png)
 
 
 
-![png](output_34_3.png)
+![output_34_3](https://user-images.githubusercontent.com/45659433/119081380-d507f180-ba36-11eb-97e9-46f434d8269f.png)
 
 
 - OverallQual, GarageCars, Fullbath 는 범주형 특성 (등급, 갯수)
@@ -1702,7 +1699,7 @@ plt.show()
 ```
 
 
-![png](output_38_0.png)
+![output_38_0](https://user-images.githubusercontent.com/45659433/119081393-d76a4b80-ba36-11eb-88a6-da3749957e66.png)
 
 
 
@@ -1741,8 +1738,7 @@ print("Kurtosis: %f" % train["SalePrice"].kurt())
     Kurtosis: 2.555029
     
 
-
-![png](output_42_1.png)
+![output_42_1](https://user-images.githubusercontent.com/45659433/119081394-d802e200-ba36-11eb-9cf8-3e68d46934d6.png)
 
 
 - 비대칭도와 첨도를 해결하기 위해 데이터 분포에 log
@@ -1767,7 +1763,7 @@ train.drop('SalePrice', axis= 1, inplace=True)
     
 
 
-![png](output_44_1.png)
+![output_44_1](https://user-images.githubusercontent.com/45659433/119081395-d802e200-ba36-11eb-9b86-c86307ac1a32.png)
 
 
 ### 2) 결측치 해결
@@ -2053,40 +2049,38 @@ for catg in catg_list :
 
 ```
 
-
-![png](output_54_0.png)
-
-
-
-![png](output_54_1.png)
+![output_54_0](https://user-images.githubusercontent.com/45659433/119081396-d89b7880-ba36-11eb-8d4a-4bad73619968.png)
 
 
 
-![png](output_54_2.png)
+![output_54_1](https://user-images.githubusercontent.com/45659433/119081397-d89b7880-ba36-11eb-94b1-78e4b9fb7572.png)
 
 
 
-![png](output_54_3.png)
+![output_54_2](https://user-images.githubusercontent.com/45659433/119081398-d9340f00-ba36-11eb-9437-ef497543dbf6.png)
 
 
 
-![png](output_54_4.png)
+![output_54_3](https://user-images.githubusercontent.com/45659433/119081400-d9340f00-ba36-11eb-800f-62fbb97a3d01.png)
 
 
 
-![png](output_54_5.png)
+![output_54_4](https://user-images.githubusercontent.com/45659433/119081401-d9cca580-ba36-11eb-958c-7ce85d2ebb35.png)
 
 
 
-![png](output_54_6.png)
+![output_54_5](https://user-images.githubusercontent.com/45659433/119081402-d9cca580-ba36-11eb-86d6-fa271aa21259.png)
 
 
 
-![png](output_54_7.png)
+![output_54_6](https://user-images.githubusercontent.com/45659433/119081404-da653c00-ba36-11eb-8ae4-4e5dfb12f12c.png)
+
+
+![output_54_7](https://user-images.githubusercontent.com/45659433/119081407-da653c00-ba36-11eb-93ce-f559064ac82b.png)
 
 
 
-![png](output_54_8.png)
+![output_54_8](https://user-images.githubusercontent.com/45659433/119081408-dafdd280-ba36-11eb-9f1a-68b2bc8ce5c7.png)
 
 
 
@@ -2100,7 +2094,7 @@ plt.show()
 ```
 
 
-![png](output_55_0.png)
+![output_55_0](https://user-images.githubusercontent.com/45659433/119081410-dafdd280-ba36-11eb-8e0f-80567f3ec3e8.png)
 
 
 - 각 범주의 SalePrice_Log 평균
@@ -2258,7 +2252,7 @@ sns.heatmap(new_col_HM.corr(), linewidths = 0.1, vmax = 1.0, square = True, cmap
 
 
 
-![png](output_61_1.png)
+![output_61_1](https://user-images.githubusercontent.com/45659433/119081412-db966900-ba36-11eb-84fb-9a811cdb522f.png)
 
 
 - 의미없는 범주형 변수 삭제 (NbHd_num, ExtQ_num, BsQ_num, KiQ_num 제외)
@@ -2586,8 +2580,7 @@ plt.show()
 
 ```
 
-
-![png](output_70_0.png)
+![output_70_0](https://user-images.githubusercontent.com/45659433/119081413-dc2eff80-ba36-11eb-985e-6e86284810a2.png)
 
 
 
@@ -2615,8 +2608,7 @@ plt.show()
 
 ```
 
-
-![png](output_73_0.png)
+![output_73_0](https://user-images.githubusercontent.com/45659433/119081414-dc2eff80-ba36-11eb-9f87-d3a3bfec0c53.png)
 
 
 

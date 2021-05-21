@@ -2,7 +2,7 @@
 main:
   - title: "Profile"
     url: /introduce
-  - title: "Kaggle_Practice"
+  - title: "Kaggle"
     url: /kaggle/
   #- title: "Categories"
   #  url: /categories/

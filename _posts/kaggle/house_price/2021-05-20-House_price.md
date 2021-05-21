@@ -1127,7 +1127,7 @@ missing.plot.bar(figsize = (12,6))
 
 
 
-![png](output_21_1.png)
+![output_21_1](https://user-images.githubusercontent.com/45659433/119081337-bf92c780-ba36-11eb-8cd7-55abee47add2.png)
 
 
 

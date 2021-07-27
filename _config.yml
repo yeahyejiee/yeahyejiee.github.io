@@ -285,3 +285,11 @@ defaults:
       comments: true # true
       share: true
       related: true
+
+#_pages
+- scope:
+    path: "_pages"
+    type: pages
+   value:
+    layout: single
+    

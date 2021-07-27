@@ -16,9 +16,9 @@ minimal_mistakes_skin    : "dirt" # "air", "aqua", "contrast", "dark", "dirt", "
 
 # Site Settings
 locale                   : "en-US"
-title                    : "yeji note"
+title                    : "예지 코딩 "
 title_separator          : "-"
-subtitle                 : "#python programming  #machine learning  #kaggle" # site tagline that appears below site title in masthead
+subtitle                 : "공부하는 분석가 blog" # site tagline that appears below site title in masthead
 name                     : "Hong Ye Ji"
 description              : #"An amazing website."
 url                      : "https://yeahyejiee.github.io"
@@ -26,7 +26,7 @@ baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
-masthead_title           : "공부하는 분석가 blog" # overrides the website title displayed in the masthead, use " " for no title
+masthead_title           :  # overrides the website title displayed in the masthead, use " " for no title
 breadcrumbs            : true # true, false (default)
 words_per_minute         : 200
 comments:

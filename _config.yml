@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "dirt" # "air", "aqua", "contrast", "dark", "dirt", "
 
 # Site Settings
 locale                   : "en-US"
-title                    : "예지 코딩 "
+title                    : "예지 코딩 노트"
 title_separator          : "-"
 subtitle                 : "공부하는 분석가 blog" # site tagline that appears below site title in masthead
 name                     : "Hong Ye Ji"

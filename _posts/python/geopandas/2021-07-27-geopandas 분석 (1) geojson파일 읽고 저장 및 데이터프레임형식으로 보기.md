@@ -1,3 +1,13 @@
+---
+
+author: Hone Ye ji
+categories: 
+ - python
+ - geopandas
+tags: 
+ - geopandas
+---
+
 ## geopandas 분석방법 (1)
 
 #### #위치가 포함된 데이터를 이용하여 데이터 분석하기!

@@ -3,13 +3,13 @@ main:
   - title: "Profile"
     url: /introduce
   - title: "python"
-    url: /python/
+    url: /python
   - title: "Kaggle"
-    url: /kaggle/
+    url: /kaggle
   - title: "Categories"
-    url: /categories/
+    url: /categories
   - title: "Tags"
-    url: /tags/
+    url: /tags
  # - title: "Pages"
   #  url: /page-archive/
   #- title: "External Link"

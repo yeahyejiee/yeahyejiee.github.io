@@ -290,6 +290,6 @@ defaults:
 - scope:
     path: "_pages"
     type: pages
-   value:
+  values:
     layout: single
-    
+    author_profile: true

@@ -270,6 +270,23 @@ compress_html:
   ignore:
     envs: development
 
+toc: true
+# 카탈로그 옵션을 사용하기 위해 true옵션을 사용하였다.
+
+widgets:
+  - type: toc
+    position: right
+  - type: category
+    position: right
+  - type: tagcloud
+    position: right  
+# 위젯의 타입을 지정하여주고 위치를 오른쪽으로 지정하였다.   
+
+sidebar:
+  right:
+    sticky: true
+# sticky 옵션은 true로 하여 우측에 고정을 시켜주었다.
+
 
 # Defaults
 defaults:

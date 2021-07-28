@@ -3,9 +3,9 @@ main:
   - title: "Profile"
     url: /introduce
   - title: "python"
-    url: /geopandas/
+    url: /#python/
   - title: "Kaggle"
-    url: /kaggle/
+    url: /#kaggle/
   #- title: "Categories"
     #url: /categories
   #- title: "Tags"

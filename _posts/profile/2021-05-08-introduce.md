@@ -16,10 +16,10 @@ I experience using python, R, MySql, Qgis, Arcgis. I am interested in machine le
 ### 1. Achievement
 
 ###  Education 
-| Date |  Contents  | Organization |
-| ------ | ------ | ------ |
-|2020.09-now| Department of Urban Big Data Convergence | Seoul National University Graduate School
-|2016.03-2020.02 | Department of Statistics & Department of Living Culture and Consumer Affairs | Sungshin Women's University
+| Date |  Contents  | Organization |  
+| ------ | ------ | ------ |  
+|2020.09-now| Department of Urban Big Data Convergence | Seoul National University Graduate School|  
+|2016.03-2020.02 | Department of Statistics & Department of Living Culture and Consumer Affairs | Sungshin Women's University|  
 
 
 

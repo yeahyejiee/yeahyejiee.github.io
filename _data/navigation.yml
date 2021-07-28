@@ -3,7 +3,7 @@ main:
   - title: "Profile"
     url: /introduce
   - title: "python"
-    url: /python/
+    url: /geopandas/
   - title: "Kaggle"
     url: /kaggle/
   #- title: "Categories"

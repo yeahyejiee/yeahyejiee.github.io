@@ -14,7 +14,7 @@ I experience using python, R, MySql, Qgis, Arcgis. I am interested in machine le
   
 
 ### 1. Achievement
--------------
+
 ###  Education 
 | Date |  Contents  | Organization |
 | ------ | ------ | ------ |
@@ -24,7 +24,7 @@ I experience using python, R, MySql, Qgis, Arcgis. I am interested in machine le
 
 
 ### 2. Career
-------------
+
 
 ####  - Internal and external activities
 | Date |  Contents  | Organization |
@@ -68,10 +68,11 @@ I experience using python, R, MySql, Qgis, Arcgis. I am interested in machine le
   
  
 ### 4. Interest
------------
+
 text-mining , Machine learning , Mobility, ..
 
+----
 
 #### More 
-----
+
 [Naver_Blog](https://blog.naver.com/dreamhigh151)

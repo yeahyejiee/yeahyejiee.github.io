@@ -2,6 +2,9 @@
 layout: archive
 author: Hone Ye ji
 ---
+![profile](/assets/ima.jpg){: width="50%" height="50%"}
+
+
 Hello. I introduce myself.
 
 

@@ -42,12 +42,8 @@ I experience using python, R, MySql, Qgis, Arcgis. I am interested in machine le
 
  ###  - Portfolio : Project 
  
-|  |  |
-|--|--|
-|  |  |
-
-| Date |  Contents  | Organization |
-| -- |:--:|:--:|
+|Date  |Contents   |Organization |
+|--|:--:|:--:|
 |2020.11-2021.05| 쥬비스 데이터 마이닝 8법칙 (고객 맞춤 행동 추천) [more](https://drive.google.com/file/d/1swD9Y_UsqDfxHhgw1z5wr9DiWXnb-U8I/view?usp=sharing) |[쥬비스(Juvis)](http://www.juvis.co.kr/lab/index.do#fir_page)|
 |2020.01-2020.02| 2010년대 음원트렌드 분석 [more](https://drive.google.com/file/d/1DRFm9XANJaEcEGn0IyS34HTWHqQlg3sy/view?usp=sharing) |Samsung Multi Campus|
 |2019.09-2019.10| 노인의 집 추가 설치[more](https://drive.google.com/file/d/1IY-ZfI5TMfic3EBwJspt1qVd9fX8FNJl/view?usp=sharing) | 서울특별시 빅데이터 캠퍼스|
@@ -55,8 +51,9 @@ I experience using python, R, MySql, Qgis, Arcgis. I am interested in machine le
 
 
  ###  - studying Tool & Certificate
-| Date |  Contents  | Organization |
-| -- | :--:|:--: |
+ 
+|Date  | Contents |Organization |
+|--|:--:|:--:|
 |2021.01|컴퓨터활용능력 2급 |대한상공회의소|
 |2020.09|사회조사분석사 2급 |한국산업인력공단|
 |2020.06| SQLD |한국데이터진흥원|
@@ -67,13 +64,8 @@ I experience using python, R, MySql, Qgis, Arcgis. I am interested in machine le
   
 
 ### 3. studying Tool 
-- #python 
-- #R
-- #Arcgis
-- #Qgis
-- #EXCEL
-- #POWERPOINT
-- #WORD  
+#python   #R  #Arcgis#Qgis
+#EXCEL #POWERPOINT #WORD  
   
  
 ### 4. Interest
@@ -86,6 +78,6 @@ text-mining , Machine learning , Mobility, ..
 
 [Naver_Blog](https://blog.naver.com/dreamhigh151)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MTU4MzYzNDcsMTE5MTU3MzU0NSwtNT
-IwMDMxMzgwXX0=
+eyJoaXN0b3J5IjpbLTc2NzY2NDcyOCwxMTkxNTczNTQ1LC01Mj
+AwMzEzODBdfQ==
 -->

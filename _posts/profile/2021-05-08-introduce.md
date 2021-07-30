@@ -31,9 +31,9 @@ I experience using python, R, MySql, Qgis, Arcgis. I am interested in machine le
 | ------    | :---:|:---: |
 |2020.09-now|Bigdata programing educationin |Samsung Multi Campus|
 |2020.09-now| Coding Genius 5th |LG CNS|
-|2020.09-now| BOAZ(Bigdata Union Club) 10th  Data analysis & PR Team Leader | |
+|2020.09-now| BOAZ(Bigdata Union Club) 10th  Data analysis & PR Team Leader | 
 |2017.07 - 2018.02| Imagination Volunteer 14th | KT&G|
-|2017.03 - 2017.06| Dreamers Marketing School 5th   | |
+|2017.03 - 2017.06| Dreamers Marketing School 5th   | 
 |2016.08 - 2017.08| Sungshin Women's University Public Relations Ambassador Forus 18th | Sungshin Women's University|
 
  ####  - Portfolio : Project 

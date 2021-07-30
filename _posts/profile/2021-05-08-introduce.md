@@ -16,8 +16,8 @@ I experience using python, R, MySql, Qgis, Arcgis. I am interested in machine le
 ### 1. Achievement
 
 ###  Education 
-| Date |  Contents  | Organization |  
-| ------ | :---:| :---: |  
+|Date|Contents|Organization|  
+|---|:---:|:---:|  
 |2020.09-now| Department of Urban Big Data Convergence | Seoul National University Graduate School|  
 |2016.03-2020.02 | Department of Statistics & Department of Living Culture and Consumer Affairs | Sungshin Women's University|  
 
@@ -28,7 +28,7 @@ I experience using python, R, MySql, Qgis, Arcgis. I am interested in machine le
 
 ####  - Internal and external activities
 | Date |  Contents  | Organization |
-| ------    | :---:|:---: |
+|------| :---:|:---: |
 |2020.09-now|Bigdata programing educationin |Samsung Multi Campus|
 |2020.09-now| Coding Genius 5th |LG CNS|
 |2020.09-now| BOAZ(Bigdata Union Club) 10th  Data analysis & PR Team Leader | 

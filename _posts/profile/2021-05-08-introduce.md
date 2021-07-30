@@ -1,5 +1,5 @@
 ---
-layout: single #archive
+layout: archive
 author: Hone Ye ji
 ---
 Hello. I introduce myself.

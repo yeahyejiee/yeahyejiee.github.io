@@ -1,15 +1,12 @@
 
-![ima](https://user-images.githubusercontent.com/45659433/127631621-6ff85057-9f58-4a6a-899c-1042299d720e.jpg)
 
+<center><img src="https://user-images.githubusercontent.com/45659433/127631621-6ff85057-9f58-4a6a-899c-1042299d720e.jpg" width="50%" height="50%"></center>
 
-```
-<center><img src="/images/logo.png" width="50%" height="50%"></center>
-```
 Hello. I introduce myself.
 
-My name is Hong Ye ji. I am studying at Seoul National University Graduate School.  
-My major is Statistics and I have been studying python program since 2018 and Arcgis since 2021.  
-I experience using python, R, MySql, Qgis, Arcgis. I am interested in machine learing and mobility-related analysis.  
+My name is Hong Ye ji. 
+I am studying at Seoul National University Graduate School.  
+My major is Statistics and I have been studying python program since 2018 and Arcgis since 2021.  I experience using python, R, MySql, Qgis, Arcgis. I am interested in machine learing and mobility-related analysis.  
 
 ----
 
@@ -20,7 +17,7 @@ I experience using python, R, MySql, Qgis, Arcgis. I am interested in machine le
 ###  Education 
 | Date |  Contents  | Organization |
 | ------ | :---:|:---: |
-|2020.09-now| Department of Urban Big Data Convergence | Seoul National University Graduate School|
+|2020.09- now| Department of Urban Big Data Convergence | Seoul National University Graduate School|
 |2016.03-2020.02| Department of Statistics & Department of Living Culture and Consumer Affairs | Sungshin Women's University|
 
 
@@ -79,5 +76,5 @@ text-mining , Machine learning , Mobility, ..
 
 [Naver_Blog](https://blog.naver.com/dreamhigh151)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgxNjAyOTQ1NF19
+eyJoaXN0b3J5IjpbLTEwOTM4MDcyNjVdfQ==
 -->

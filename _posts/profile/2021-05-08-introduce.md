@@ -15,6 +15,11 @@ My major is Statistics and I have been studying python program since 2018 and Ar
 ### 1. Achievement
 
 ###  Education 
+
+|Date  | Contents |
+|--|--|
+| 2020.09- now | Department of Urban Big Data Convergenc |
+
 | Date |  Contents  | Organization |
 | ------ | :---:|:---: |
 |2020.09- now| Department of Urban Big Data Convergence | Seoul National University Graduate School|
@@ -76,5 +81,5 @@ text-mining , Machine learning , Mobility, ..
 
 [Naver_Blog](https://blog.naver.com/dreamhigh151)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwOTM4MDcyNjVdfQ==
+eyJoaXN0b3J5IjpbLTUyMDAzMTM4MF19
 -->

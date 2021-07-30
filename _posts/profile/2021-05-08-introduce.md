@@ -40,7 +40,8 @@ I experience using python, R, MySql, Qgis, Arcgis. I am interested in machine le
 |2016.08 - 2017.08| Sungshin Women's University Public Relations Ambassador Forus 18th | Sungshin Women's University|
 
 
- ###  - Portfolio : Project 
+
+ ### - Portfolio : Project 
  
 |Date  |Contents   |Organization |
 |--|:--:|:--:|
@@ -50,7 +51,7 @@ I experience using python, R, MySql, Qgis, Arcgis. I am interested in machine le
 |2018.09-2019.02| 트위터 트렌드 분석을 통한 신제품 개발 [more](https://www.slideshare.net/BOAZbigdata/1-131319946) | BOAZ|
 
 
- ###  - studying Tool & Certificate
+ ### - studying Tool & Certificate
  
 |Date  | Contents |Organization |
 |--|:--:|:--:|
@@ -64,7 +65,7 @@ I experience using python, R, MySql, Qgis, Arcgis. I am interested in machine le
   
 
 ### 3. studying Tool 
-#python   #R  #Arcgis#Qgis
+#python   #R  #Arcgis   #Qgis  
 #EXCEL #POWERPOINT #WORD  
   
  
@@ -78,6 +79,6 @@ text-mining , Machine learning , Mobility, ..
 
 [Naver_Blog](https://blog.naver.com/dreamhigh151)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc2NzY2NDcyOCwxMTkxNTczNTQ1LC01Mj
+eyJoaXN0b3J5IjpbMTc2NDA4NzY0NiwxMTkxNTczNTQ1LC01Mj
 AwMzEzODBdfQ==
 -->

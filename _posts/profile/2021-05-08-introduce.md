@@ -65,7 +65,8 @@ I experience using python, R, MySql, Qgis, Arcgis. I am interested in machine le
   
 
 ### 3. studying Tool 
-#[python](https://www.python.org/)   #[R](https://www.r-project.org/)  #[Arcgis](https://www.esrikr.com/products/arcgis/)   #Qgis  
+#[python](https://www.python.org/)   #[R](https://www.r-project.org/)  #[Arcgis](https://www.esrikr.com/products/arcgis/)   #[Qgis](https://qgis.org/ko/site/)
+  
 #EXCEL #POWERPOINT #WORD  
   
  
@@ -79,6 +80,6 @@ text-mining , Machine learning , Mobility, ..
 
 [Naver_Blog](https://blog.naver.com/dreamhigh151)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODYzNzg2ODE4LDExOTE1NzM1NDUsLTUyMD
-AzMTM4MF19
+eyJoaXN0b3J5IjpbLTIyNjc0NjgxMiwxMTkxNTczNTQ1LC01Mj
+AwMzEzODBdfQ==
 -->

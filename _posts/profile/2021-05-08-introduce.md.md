@@ -1,6 +1,10 @@
 
-![프로필]("/assets/ima.jpg")
+![ima](https://user-images.githubusercontent.com/45659433/127631621-6ff85057-9f58-4a6a-899c-1042299d720e.jpg)
 
+
+```
+<center><img src="/images/logo.png" width="50%" height="50%"></center>
+```
 Hello. I introduce myself.
 
 My name is Hong Ye ji. I am studying at Seoul National University Graduate School.  
@@ -75,5 +79,5 @@ text-mining , Machine learning , Mobility, ..
 
 [Naver_Blog](https://blog.naver.com/dreamhigh151)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM0Nzc1NzU3Nl19
+eyJoaXN0b3J5IjpbLTgxNjAyOTQ1NF19
 -->

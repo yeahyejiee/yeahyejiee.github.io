@@ -8,3 +8,10 @@
 @import "minimal-mistakes"; // main partials
 
 @import url('https://fonts.googleapis.com/css2?family=Gowun+Dodum&display=swap'); //폰트
+
+
+/* 새 css class */
+.center {
+  display: block;
+  margin: auto;
+}

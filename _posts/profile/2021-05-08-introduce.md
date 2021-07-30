@@ -3,7 +3,7 @@ layout: archive
 author: Hone Ye ji
 ---
 
-<img src="/assets/ima.jpg" width="300" height="300">
+<img src="/assets/ima.jpg" width="500" height="300">
 
 Hello. I introduce myself.
 

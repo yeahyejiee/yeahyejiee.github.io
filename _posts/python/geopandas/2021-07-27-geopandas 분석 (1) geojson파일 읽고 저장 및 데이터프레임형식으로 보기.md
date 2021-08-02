@@ -2,7 +2,6 @@
 
 author: Hone Ye ji
 categories: 
- - python
  - geopandas
 tags: 
  - geopandas
@@ -334,3 +333,6 @@ f
 ```python
 cen_str_df.to_file('cen_str_df.geojson', driver='GeoJSON')
 ```
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTg5Nzc5NTAxMF19
+-->

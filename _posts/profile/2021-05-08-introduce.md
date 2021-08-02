@@ -3,9 +3,8 @@
 <center><img src="https://user-images.githubusercontent.com/45659433/127631621-6ff85057-9f58-4a6a-899c-1042299d720e.jpg" width="50%" height="50%"></center>  
 
 
-
-Hello. I introduce myself.
-
+---
+Hello. 
 My name is Hong Ye ji. 
 I am studying at Seoul National University Graduate School.  
 My major is Statistics and I have been studying python program since 2018 and Arcgis since 2021.  
@@ -80,6 +79,7 @@ text-mining , Machine learning , Mobility, ..
 
 [Naver_Blog](https://blog.naver.com/dreamhigh151)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExODc2MDA2MjIsMTkyOTM1MDUyMywtMT
-M2ODEzMjIzNCwxMTkxNTczNTQ1LC01MjAwMzEzODBdfQ==
+eyJoaXN0b3J5IjpbLTU4OTMxODI0NywtMTE4NzYwMDYyMiwxOT
+I5MzUwNTIzLC0xMzY4MTMyMjM0LDExOTE1NzM1NDUsLTUyMDAz
+MTM4MF19
 -->

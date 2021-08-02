@@ -32,9 +32,9 @@ I experience using python, R, MySql, Qgis, Arcgis. I am interested in machine le
 
 | Date  |Contents  |Organization|
 |--|:--:|:--:|
-|2020.09-now|Bigdata programing educationin |Samsung Multi Campus|
-|2020.09-now| Coding Genius 5th |LG CNS|
-|2020.09-now| BOAZ(Bigdata Union Club) 10th  Data analysis & PR Team Leader | |
+|2021.02-2021.12|Bigdata programing educationin |Samsung Multi Campus|
+|2020.03-202.06| Coding Genius 5th |LG CNS|
+|2018.09-2019.02| BOAZ(Bigdata Union Club) 10th  Data analysis & PR Team Leader | |
 |2017.07 - 2018.02| Imagination Volunteer 14th | KT&G|
 |2017.03 - 2017.06| Dreamers Marketing School 5th   | |
 |2016.08 - 2017.08| Sungshin Women's University Public Relations Ambassador Forus 18th | Sungshin Women's University|
@@ -80,6 +80,6 @@ text-mining , Machine learning , Mobility, ..
 
 [Naver_Blog](https://blog.naver.com/dreamhigh151)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNjgxMzIyMzQsMTE5MTU3MzU0NSwtNT
-IwMDMxMzgwXX0=
+eyJoaXN0b3J5IjpbMTkyOTM1MDUyMywtMTM2ODEzMjIzNCwxMT
+kxNTczNTQ1LC01MjAwMzEzODBdfQ==
 -->

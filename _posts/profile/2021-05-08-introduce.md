@@ -6,7 +6,7 @@
 ---
 Hello. 
 My name is Hong Ye ji. 
-I am studying at Seoul National University Graduate School.  
+I am studying at University of Seoul Graduate School.  
 My major is Statistics and I have been studying python program since 2018 and Arcgis since 2021.  
 I experience using python, R, MySql, Qgis, Arcgis. I am interested in machine learing and mobility-related analysis.  
 
@@ -20,7 +20,7 @@ I experience using python, R, MySql, Qgis, Arcgis. I am interested in machine le
 
 | Date |  Contents  | Organization |
 | -- | :--:|:--: |
-|2020.09- now| Department of Urban Big Data Convergence | Seoul National University Graduate School|
+|2020.09- now| Department of Urban Big Data Convergence | University of Seoul Graduate School|
 |2016.03-2020.02| Department of Statistics & Department of Living Culture and Consumer Affairs | Sungshin Women's University|
 
 
@@ -79,7 +79,7 @@ text-mining , Machine learning , Mobility, ..
 
 [Naver_Blog](https://blog.naver.com/dreamhigh151)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU4OTMxODI0NywtMTE4NzYwMDYyMiwxOT
-I5MzUwNTIzLC0xMzY4MTMyMjM0LDExOTE1NzM1NDUsLTUyMDAz
-MTM4MF19
+eyJoaXN0b3J5IjpbMjA4MDI0MjA0MSwtNTg5MzE4MjQ3LC0xMT
+g3NjAwNjIyLDE5MjkzNTA1MjMsLTEzNjgxMzIyMzQsMTE5MTU3
+MzU0NSwtNTIwMDMxMzgwXX0=
 -->

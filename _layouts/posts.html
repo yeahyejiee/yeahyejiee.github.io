@@ -34,3 +34,9 @@ layout: archive
 	  <img src="http://hits.dwyl.com/{{ site.url | remove_first: 'https://' | remove_first: 'http://' }}/{{ page.url | remove_first: '/' | replace: '/', '-' }}.svg" />
 	</a>
   </div> 
+
+{% if page.tags %}
+  {% for tag in page.tags %}
+    <span class="tag">{{ tag }}</span>
+  {% endfor %}
+{% endif %}

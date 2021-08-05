@@ -20,7 +20,7 @@ title                    : "예지 코딩 노트"
 title_separator          : "-"
 subtitle                 : "공부하는 분석가 blog" # site tagline that appears below site title in masthead
 name                     : "Hong Ye Ji"
-description              : "An amazing website."
+description              : #"An amazing website."
 url                      : "https://yeahyejiee.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -29,6 +29,7 @@ logo                     : # path of logo image to display in the masthead, e.g.
 masthead_title           :  # overrides the website title displayed in the masthead, use " " for no title
 breadcrumbs            : true # true, false (default)
 words_per_minute         : 200
+
 comments:
   provider               :  "facebook" # false (default), "disqus", "discourse", "facebook", "staticman", "staticman_v2", "utterances", "custom"
   facebook:
@@ -80,7 +81,7 @@ facebook:
   username               :
   app_id                 :
   publisher              :
-og_image                 : # Open Graph/Twitter default site image
+og_image                 :  "/assets/images/coding.jpg"  # Open Graph/Twitter default site image
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:

@@ -121,7 +121,7 @@ author:
       url: "https://github.com/yeahyejiee/hong"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      # url: "https://instagram.com/"
+      url: "https://www.instagram.com/yeah_jiee"
 
 # Site Footer
 footer:
@@ -134,7 +134,7 @@ footer:
       # url:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url:
+      url: "https://github.com/yeahyejiee/hong"
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
       # url:
@@ -143,7 +143,7 @@ footer:
       # url:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      # url:
+      url:"https://www.instagram.com/yeah_jiee"
 
 
 # Reading Files

@@ -20,7 +20,7 @@ title                    : "예지 코딩 노트"
 title_separator          : "-"
 subtitle                 : "공부하는 분석가 blog" # site tagline that appears below site title in masthead
 name                     : "Hong Ye Ji"
-description              : #"An amazing website."
+description              : "An amazing website."
 url                      : "https://yeahyejiee.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"

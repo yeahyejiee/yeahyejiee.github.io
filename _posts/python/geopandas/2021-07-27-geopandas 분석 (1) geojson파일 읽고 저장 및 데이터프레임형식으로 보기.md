@@ -5,6 +5,10 @@ categories:
  - geopandas
 tags: 
  - geopandas
+
+toc: true
+toc_label: "My Table of Contents"
+toc_icon: "cog"
 ---
 
 ## geopandas 분석방법 (1)

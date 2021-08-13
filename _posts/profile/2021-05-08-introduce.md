@@ -56,9 +56,10 @@
   
 
 ### 3. Skill
-| 프로그래밍 종류 | 기간 | 사용가능정도
-|--|--|
-|  |  |
+
+| 프로그래밍 종류 | 기간 | 사용가능정도 |
+|--|--|--|
+|  |  |  |
 
 - [python](https://www.python.org/) : 2018년부터 본격적으로 사용하여 제일 편한 프로그래밍 언어
 - [R](https://www.r-project.org/): 2017년부터 배우기 시작하였으며 간단한 분석 가능
@@ -82,7 +83,7 @@ text-mining , Machine learning , Mobility, ..
 
 [Naver_Blog](https://blog.naver.com/dreamhigh151)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODk1MTYzOTgyLDIwODAyNDIwNDEsLTU4OT
+eyJoaXN0b3J5IjpbMzkyOTYzMjAwLDIwODAyNDIwNDEsLTU4OT
 MxODI0NywtMTE4NzYwMDYyMiwxOTI5MzUwNTIzLC0xMzY4MTMy
 MjM0LDExOTE1NzM1NDUsLTUyMDAzMTM4MF19
 -->

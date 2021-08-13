@@ -1,7 +1,7 @@
 
-# ㅁAbout me 
+# About me 
 
-<center><img src="https://user-images.githubusercontent.com/45659433/129288124-3ca60025-7beb-45a5-99e2-008efc1247b4.jpg" width="80%" height="80%"></center>  
+<center><img src="https://user-images.githubusercontent.com/45659433/129288124-3ca60025-7beb-45a5-99e2-008efc1247b4.jpg" width="70%" height="70%"></center>  
 
 
  
@@ -55,9 +55,18 @@
 
   
 
-### 3. studying Tool 
+### 3. Skill
 #[python](https://www.python.org/)   #[R](https://www.r-project.org/)  #[Arcgis](https://www.esrikr.com/products/arcgis/)   #[Qgis](https://qgis.org/ko/site/)
-  
+
+- [python](https://www.python.org/) : 2018년부터 본격적으로 사용하여 제일 편한 프로그래밍 언어
+- R: 2017년부터 배우기 시작하였으며 간단한 분석 가능
+- SPSS: 2016년에 처음 접했으며 전반적인 통계분석 가능 (사회조사분석사 2급 획득)
+- sas enterprise guide: 데이터마이닝과 관련된 모델 및 비교 가능
+- MySQL: DB에서 원하는 자료를 뽑을 수 있을 정도?(SQLD 자격증획득)
+- ArcGIS: 2021년 처음 배웠고 아직은 배워가는 중이며 시각화 및 기초적인 공간분석 가능
+-Qgis: 2021년 처음 접했고 좌표변환 빛 시각화 가능
+
+
 #EXCEL #POWERPOINT #WORD  
   
  
@@ -71,7 +80,7 @@ text-mining , Machine learning , Mobility, ..
 
 [Naver_Blog](https://blog.naver.com/dreamhigh151)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkxMDc4MDQ5OCwyMDgwMjQyMDQxLC01OD
+eyJoaXN0b3J5IjpbLTM4MTQ2NTY4MCwyMDgwMjQyMDQxLC01OD
 kzMTgyNDcsLTExODc2MDA2MjIsMTkyOTM1MDUyMywtMTM2ODEz
 MjIzNCwxMTkxNTczNTQ1LC01MjAwMzEzODBdfQ==
 -->

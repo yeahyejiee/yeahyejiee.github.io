@@ -1,19 +1,11 @@
 
+# ㅁAbout me 
 
-<center><img src="https://user-images.githubusercontent.com/45659433/127631621-6ff85057-9f58-4a6a-899c-1042299d720e.jpg" width="50%" height="50%"></center>  
+<center><img src="https://user-images.githubusercontent.com/45659433/129288124-3ca60025-7beb-45a5-99e2-008efc1247b4.jpg" width="80%" height="80%"></center>  
 
 
----
-Hello. 
-My name is Hong Ye ji. 
-I am studying at University of Seoul Graduate School.  
-My major is Statistics and I have been studying python program since 2018 and Arcgis since 2021.  
-I experience using python, R, MySql, Qgis, Arcgis. I am interested in machine learing and mobility-related analysis.  
-
-----
-
-  
-
+ 
+ 
 ### 1. Achievement
 
 ###  Education 
@@ -79,7 +71,7 @@ text-mining , Machine learning , Mobility, ..
 
 [Naver_Blog](https://blog.naver.com/dreamhigh151)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA4MDI0MjA0MSwtNTg5MzE4MjQ3LC0xMT
-g3NjAwNjIyLDE5MjkzNTA1MjMsLTEzNjgxMzIyMzQsMTE5MTU3
-MzU0NSwtNTIwMDMxMzgwXX0=
+eyJoaXN0b3J5IjpbLTkxMDc4MDQ5OCwyMDgwMjQyMDQxLC01OD
+kzMTgyNDcsLTExODc2MDA2MjIsMTkyOTM1MDUyMywtMTM2ODEz
+MjIzNCwxMTkxNTczNTQ1LC01MjAwMzEzODBdfQ==
 -->

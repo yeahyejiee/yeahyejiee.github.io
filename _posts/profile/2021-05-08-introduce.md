@@ -64,9 +64,8 @@
 |SPSS|2016년~|전반적인 통계분석 가능 (사회조사분석사 2급 획득)|
 |SAS Enterprise guide|2019|데이터마이닝과 관련된 모델 및 비교 가능|
 |MySQL|2020|DB에서 원하는 자료를 뽑을 수 있을 정도?(SQLD 자격증획득)|
-|[Arcgis](https://www.esrikr.com/products/arcgis/)|2021년||
-- [Arcgis](https://www.esrikr.com/products/arcgis/): 2021년 처음 배웠고 아직은 배워가는 중이며 시각화 및 기초적인 공간분석 가능
--[Qgis](https://qgis.org/ko/site/): 2021년 처음 접했고 좌표변환 빛 시각화 가능
+|[Arcgis](https://www.esrikr.com/products/arcgis/)|2021년|배워가는 중이며 시각화 및 기초적인 공간분석 가능|
+|[Qgis](https://qgis.org/ko/site/) |2021년 |처음 접했고 좌표변환 빛 시각화 가능|
 
 
 #EXCEL #POWERPOINT #WORD  
@@ -82,7 +81,8 @@ text-mining , Machine learning , Mobility, ..
 
 [Naver_Blog](https://blog.naver.com/dreamhigh151)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwODY4NTM5NiwyMDgwMjQyMDQxLC01OD
-kzMTgyNDcsLTExODc2MDA2MjIsMTkyOTM1MDUyMywtMTM2ODEz
-MjIzNCwxMTkxNTczNTQ1LC01MjAwMzEzODBdfQ==
+eyJoaXN0b3J5IjpbNTQ4MDkwMDMxLC0xMDg2ODUzOTYsMjA4MD
+I0MjA0MSwtNTg5MzE4MjQ3LC0xMTg3NjAwNjIyLDE5MjkzNTA1
+MjMsLTEzNjgxMzIyMzQsMTE5MTU3MzU0NSwtNTIwMDMxMzgwXX
+0=
 -->

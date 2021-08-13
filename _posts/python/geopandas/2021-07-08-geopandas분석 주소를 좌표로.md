@@ -5,7 +5,6 @@ categories:
  - geopandas
 tags: 
  - geopandas
-
 toc: true
 toc_label: "My Table of Contents"
 toc_icon: "cog"
@@ -180,5 +179,6 @@ df1.to_csv('D:/위도경도.csv',index=False)
 
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDI3NDI0NTM1LC0xNzc0MDY4ODU5XX0=
+eyJoaXN0b3J5IjpbLTExNTY0NjkzOTksNDI3NDI0NTM1LC0xNz
+c0MDY4ODU5XX0=
 -->

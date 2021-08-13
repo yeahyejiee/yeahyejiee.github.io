@@ -29,7 +29,7 @@ def address_to_loaction(address):
     global val
     url = 'https://dapi.kakao.com/v2/local/search/address.json?query='+address
     result=requests.get(urlparse(url).geturl(),
-                            headers = {"Authorization": 'KakaoAK 9eccf65cdd674a9067172090d1b7c2b2'})
+                            headers = {"Authorization": 'KakaoAK REST API 넣기'})
     json_obj=result.json()
     for document in json_obj['documents']:
         val =[document['road_address']['building_name'], document['address_name'],document['y'], document['x']]
@@ -180,5 +180,5 @@ df1.to_csv('D:/위도경도.csv',index=False)
 
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NzQwNjg4NTldfQ==
+eyJoaXN0b3J5IjpbNDI3NDI0NTM1LC0xNzc0MDY4ODU5XX0=
 -->

@@ -59,10 +59,9 @@
 
 | 프로그래밍 종류 | 기간 | 사용가능정도 |
 |--|--|--|
-|  |  |  |
-
-- [python](https://www.python.org/) : 2018년부터 본격적으로 사용하여 제일 편한 프로그래밍 언어
-- [R](https://www.r-project.org/): 2017년부터 배우기 시작하였으며 간단한 분석 가능
+| [python](https://www.python.org/)  | 2018년 ~ | 제일 편한 프로그래밍 언어 |
+|[R](https://www.r-project.org/)| 2017년 ~|간단한 분석 가능|
+|SPSS|2016년||
 - SPSS: 2016년에 처음 접했으며 전반적인 통계분석 가능 (사회조사분석사 2급 획득)
 - SAS Enterprise guide: 데이터마이닝과 관련된 모델 및 비교 가능
 - MySQL: DB에서 원하는 자료를 뽑을 수 있을 정도?(SQLD 자격증획득)
@@ -83,7 +82,7 @@ text-mining , Machine learning , Mobility, ..
 
 [Naver_Blog](https://blog.naver.com/dreamhigh151)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzkyOTYzMjAwLDIwODAyNDIwNDEsLTU4OT
-MxODI0NywtMTE4NzYwMDYyMiwxOTI5MzUwNTIzLC0xMzY4MTMy
-MjM0LDExOTE1NzM1NDUsLTUyMDAzMTM4MF19
+eyJoaXN0b3J5IjpbLTE2OTEwMDU4ODAsMjA4MDI0MjA0MSwtNT
+g5MzE4MjQ3LC0xMTg3NjAwNjIyLDE5MjkzNTA1MjMsLTEzNjgx
+MzIyMzQsMTE5MTU3MzU0NSwtNTIwMDMxMzgwXX0=
 -->

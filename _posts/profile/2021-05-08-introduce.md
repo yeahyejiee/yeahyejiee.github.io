@@ -36,6 +36,7 @@ comment: False
 |2016.08 - 2017.08| Sungshin Women's University Public Relations Ambassador Forus 18th | Sungshin Women's University|
 
 
+
 ### Portfolio : Project
  
 |Date  |Contents   |Organization |
@@ -89,8 +90,9 @@ comment: False
 
 [Naver_Blog](https://blog.naver.com/dreamhigh151)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNzU3Nzk4NiwtMTcwODMxNDkwMyw2Mz
-MyNjU0MTksLTEwODY4NTM5NiwyMDgwMjQyMDQxLC01ODkzMTgy
-NDcsLTExODc2MDA2MjIsMTkyOTM1MDUyMywtMTM2ODEzMjIzNC
-wxMTkxNTczNTQ1LC01MjAwMzEzODBdfQ==
+eyJoaXN0b3J5IjpbLTE3MzEwODUyOTYsLTIwNzU3Nzk4NiwtMT
+cwODMxNDkwMyw2MzMyNjU0MTksLTEwODY4NTM5NiwyMDgwMjQy
+MDQxLC01ODkzMTgyNDcsLTExODc2MDA2MjIsMTkyOTM1MDUyMy
+wtMTM2ODEzMjIzNCwxMTkxNTczNTQ1LC01MjAwMzEzODBdfQ==
+
 -->

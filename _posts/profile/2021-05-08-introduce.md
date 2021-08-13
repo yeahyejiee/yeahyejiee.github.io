@@ -36,7 +36,7 @@ comment: False
 |2016.08 - 2017.08| Sungshin Women's University Public Relations Ambassador Forus 18th | Sungshin Women's University|
 
 
- ### Portfolio : Project 
+### Portfolio : Project
  
 |Date  |Contents   |Organization |
 |--|:--:|:--:|
@@ -87,8 +87,8 @@ text-mining , Machine learning , Mobility, ..
 
 [Naver_Blog](https://blog.naver.com/dreamhigh151)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ0NTQ2MzU5LC0xNzA4MzE0OTAzLDYzMz
-I2NTQxOSwtMTA4Njg1Mzk2LDIwODAyNDIwNDEsLTU4OTMxODI0
-NywtMTE4NzYwMDYyMiwxOTI5MzUwNTIzLC0xMzY4MTMyMjM0LD
-ExOTE1NzM1NDUsLTUyMDAzMTM4MF19
+eyJoaXN0b3J5IjpbMTk2ODA0MDE5NywtMTcwODMxNDkwMyw2Mz
+MyNjU0MTksLTEwODY4NTM5NiwyMDgwMjQyMDQxLC01ODkzMTgy
+NDcsLTExODc2MDA2MjIsMTkyOTM1MDUyMywtMTM2ODEzMjIzNC
+wxMTkxNTczNTQ1LC01MjAwMzEzODBdfQ==
 -->

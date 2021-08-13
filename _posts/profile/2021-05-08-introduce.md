@@ -68,6 +68,8 @@
 |[Qgis](https://qgis.org/ko/site/) |2021년 |처음 접했고 좌표변환 빛 시각화 가능|
 
 
+
+
 #EXCEL #POWERPOINT #WORD  
   
  
@@ -81,7 +83,7 @@ text-mining , Machine learning , Mobility, ..
 
 [Naver_Blog](https://blog.naver.com/dreamhigh151)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTQ4MDkwMDMxLC0xMDg2ODUzOTYsMjA4MD
+eyJoaXN0b3J5IjpbNjMzMjY1NDE5LC0xMDg2ODUzOTYsMjA4MD
 I0MjA0MSwtNTg5MzE4MjQ3LC0xMTg3NjAwNjIyLDE5MjkzNTA1
 MjMsLTEzNjgxMzIyMzQsMTE5MTU3MzU0NSwtNTIwMDMxMzgwXX
 0=

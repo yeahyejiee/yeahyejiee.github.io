@@ -1,8 +1,7 @@
 ---
-
 author: Hone Ye ji
+comment: false
 
-ca
 ---
 
 ## About me 
@@ -88,8 +87,8 @@ text-mining , Machine learning , Mobility, ..
 
 [Naver_Blog](https://blog.naver.com/dreamhigh151)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA0MjE1ODc0Nyw2MzMyNjU0MTksLTEwOD
-Y4NTM5NiwyMDgwMjQyMDQxLC01ODkzMTgyNDcsLTExODc2MDA2
-MjIsMTkyOTM1MDUyMywtMTM2ODEzMjIzNCwxMTkxNTczNTQ1LC
-01MjAwMzEzODBdfQ==
+eyJoaXN0b3J5IjpbLTE3MDgzMTQ5MDMsNjMzMjY1NDE5LC0xMD
+g2ODUzOTYsMjA4MDI0MjA0MSwtNTg5MzE4MjQ3LC0xMTg3NjAw
+NjIyLDE5MjkzNTA1MjMsLTEzNjgxMzIyMzQsMTE5MTU3MzU0NS
+wtNTIwMDMxMzgwXX0=
 -->

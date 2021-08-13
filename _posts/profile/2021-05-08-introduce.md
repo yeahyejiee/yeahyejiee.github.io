@@ -1,5 +1,4 @@
 ---
-author: Hone Ye ji
 comment: False
 
 ---
@@ -90,9 +89,8 @@ comment: False
 
 [Naver_Blog](https://blog.naver.com/dreamhigh151)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MzEwODUyOTYsLTIwNzU3Nzk4NiwtMT
-cwODMxNDkwMyw2MzMyNjU0MTksLTEwODY4NTM5NiwyMDgwMjQy
-MDQxLC01ODkzMTgyNDcsLTExODc2MDA2MjIsMTkyOTM1MDUyMy
-wtMTM2ODEzMjIzNCwxMTkxNTczNTQ1LC01MjAwMzEzODBdfQ==
-
+eyJoaXN0b3J5IjpbLTUxMDY2ODI4NCwtMjA3NTc3OTg2LC0xNz
+A4MzE0OTAzLDYzMzI2NTQxOSwtMTA4Njg1Mzk2LDIwODAyNDIw
+NDEsLTU4OTMxODI0NywtMTE4NzYwMDYyMiwxOTI5MzUwNTIzLC
+0xMzY4MTMyMjM0LDExOTE1NzM1NDUsLTUyMDAzMTM4MF19
 -->

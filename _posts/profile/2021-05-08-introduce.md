@@ -19,7 +19,7 @@
 
 ### 2. Career
 
-### - Internal and external activities
+### Internal and external activities
 
 | Date  |Contents  |Organization|
 |--|:--:|:--:|
@@ -31,8 +31,7 @@
 |2016.08 - 2017.08| Sungshin Women's University Public Relations Ambassador Forus 18th | Sungshin Women's University|
 
 
-
- ### - Portfolio : Project 
+ ### Portfolio : Project 
  
 |Date  |Contents   |Organization |
 |--|:--:|:--:|
@@ -42,7 +41,7 @@
 |2018.09-2019.02| 트위터 트렌드 분석을 통한 신제품 개발 [more](https://www.slideshare.net/BOAZbigdata/1-131319946) | BOAZ|
 
 
- ### - studying Tool & Certificate
+ ### studying Tool & Certificate
  
 |Date  | Contents |Organization |
 |--|:--:|:--:|
@@ -83,8 +82,8 @@ text-mining , Machine learning , Mobility, ..
 
 [Naver_Blog](https://blog.naver.com/dreamhigh151)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjMzMjY1NDE5LC0xMDg2ODUzOTYsMjA4MD
-I0MjA0MSwtNTg5MzE4MjQ3LC0xMTg3NjAwNjIyLDE5MjkzNTA1
-MjMsLTEzNjgxMzIyMzQsMTE5MTU3MzU0NSwtNTIwMDMxMzgwXX
-0=
+eyJoaXN0b3J5IjpbLTU0MTEyNjA5Niw2MzMyNjU0MTksLTEwOD
+Y4NTM5NiwyMDgwMjQyMDQxLC01ODkzMTgyNDcsLTExODc2MDA2
+MjIsMTkyOTM1MDUyMywtMTM2ODEzMjIzNCwxMTkxNTczNTQ1LC
+01MjAwMzEzODBdfQ==
 -->

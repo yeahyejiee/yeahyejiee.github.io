@@ -46,7 +46,7 @@ comment: False
 |2018.09-2019.02| 트위터 트렌드 분석을 통한 신제품 개발 [more](https://www.slideshare.net/BOAZbigdata/1-131319946) | BOAZ|
 
 
- ### studying Tool & Certificate
+###  Certificate
  
 |Date  | Contents |Organization |
 |--|:--:|:--:|
@@ -71,10 +71,10 @@ comment: False
 |[Arcgis](https://www.esrikr.com/products/arcgis/)|2021년|배워가는 중이며 시각화 및 기초적인 공간분석 가능|
 |[Qgis](https://qgis.org/ko/site/) |2021년 |처음 접했고 좌표변환 빛 시각화 가능|
 
-
-
-
-#EXCEL #POWERPOINT #WORD  
+*그외*
+- EXCEL 
+- POWERPOINT 
+- WORD  
   
  
 ### 4. Interest
@@ -87,8 +87,8 @@ text-mining , Machine learning , Mobility, ..
 
 [Naver_Blog](https://blog.naver.com/dreamhigh151)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNDAxNjc3NCwtMTcwODMxNDkwMyw2Mz
-MyNjU0MTksLTEwODY4NTM5NiwyMDgwMjQyMDQxLC01ODkzMTgy
-NDcsLTExODc2MDA2MjIsMTkyOTM1MDUyMywtMTM2ODEzMjIzNC
-wxMTkxNTczNTQ1LC01MjAwMzEzODBdfQ==
+eyJoaXN0b3J5IjpbODM0Mjc4MzcsLTE3MDgzMTQ5MDMsNjMzMj
+Y1NDE5LC0xMDg2ODUzOTYsMjA4MDI0MjA0MSwtNTg5MzE4MjQ3
+LC0xMTg3NjAwNjIyLDE5MjkzNTA1MjMsLTEzNjgxMzIyMzQsMT
+E5MTU3MzU0NSwtNTIwMDMxMzgwXX0=
 -->

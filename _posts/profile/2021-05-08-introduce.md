@@ -1,6 +1,6 @@
 ---
 author: Hone Ye ji
-comment: false
+comment: False
 
 ---
 
@@ -87,8 +87,8 @@ text-mining , Machine learning , Mobility, ..
 
 [Naver_Blog](https://blog.naver.com/dreamhigh151)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MDgzMTQ5MDMsNjMzMjY1NDE5LC0xMD
-g2ODUzOTYsMjA4MDI0MjA0MSwtNTg5MzE4MjQ3LC0xMTg3NjAw
-NjIyLDE5MjkzNTA1MjMsLTEzNjgxMzIyMzQsMTE5MTU3MzU0NS
-wtNTIwMDMxMzgwXX0=
+eyJoaXN0b3J5IjpbLTQ0NTQ2MzU5LC0xNzA4MzE0OTAzLDYzMz
+I2NTQxOSwtMTA4Njg1Mzk2LDIwODAyNDIwNDEsLTU4OTMxODI0
+NywtMTE4NzYwMDYyMiwxOTI5MzUwNTIzLC0xMzY4MTMyMjM0LD
+ExOTE1NzM1NDUsLTUyMDAzMTM4MF19
 -->

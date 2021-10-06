@@ -3,7 +3,7 @@ main:
   - title: "Profile"
     url: /introduce
   - title: "study"
-    url: /stydy
+    url: /study
   #- title: "Kaggle"
     #url: /kaggle/
   - title: "Categories"

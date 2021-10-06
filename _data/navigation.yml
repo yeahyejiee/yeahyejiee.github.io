@@ -2,8 +2,8 @@
 main:
   - title: "Profile"
     url: /introduce
-  #- title: "python"
-    #url: /python/
+  - title: "study"
+    url: /stydy
   #- title: "Kaggle"
     #url: /kaggle/
   - title: "Categories"

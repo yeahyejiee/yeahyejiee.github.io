@@ -1,10 +1,10 @@
 # main links
 main:
-  - title: "Profile"
+  - title: "프로필"
     url: /introduce
-  - title: "study"
+  - title: "스터디"
     url: /study
-  #- title: "Kaggle"
+  #- title: "캐글"
     #url: /kaggle/
   - title: "Categories"
     url: /categories

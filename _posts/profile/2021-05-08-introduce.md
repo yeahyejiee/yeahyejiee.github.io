@@ -40,7 +40,7 @@ comment: False
  
 |Date  |Contents   |Organization |
 |--|:--:|:--:|
-|2020.11-2021.05| 쥬비스 데이터 마이닝 8법칙 (고객 맞춤 행동 추천) [more](https://drive.google.com/file/d/1swD9Y_UsqDfxHhgw1z5wr9DiWXnb-U8I/view?usp=sharing) |[쥬비스(Juvis)](http://www.juvis.co.kr/lab/index.do#fir_page)|
+|2020.11-2021.03| 쥬비스 데이터 마이닝 8법칙 (고객 맞춤 행동 추천) [more](https://drive.google.com/file/d/1swD9Y_UsqDfxHhgw1z5wr9DiWXnb-U8I/view?usp=sharing) |[쥬비스(Juvis)](http://www.juvis.co.kr/lab/index.do#fir_page)|
 |2020.01-2020.02| 2010년대 음원트렌드 분석 [more](https://drive.google.com/file/d/1DRFm9XANJaEcEGn0IyS34HTWHqQlg3sy/view?usp=sharing) |Samsung Multi Campus|
 |2019.09-2019.10| 노인의 집 추가 설치[more](https://drive.google.com/file/d/1IY-ZfI5TMfic3EBwJspt1qVd9fX8FNJl/view?usp=sharing) | 서울특별시 빅데이터 캠퍼스|
 |2018.09-2019.02| 트위터 트렌드 분석을 통한 신제품 개발 [more](https://www.slideshare.net/BOAZbigdata/1-131319946) | BOAZ|
@@ -89,8 +89,9 @@ comment: False
 
 [Naver_Blog](https://blog.naver.com/dreamhigh151)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUxMDY2ODI4NCwtMjA3NTc3OTg2LC0xNz
-A4MzE0OTAzLDYzMzI2NTQxOSwtMTA4Njg1Mzk2LDIwODAyNDIw
-NDEsLTU4OTMxODI0NywtMTE4NzYwMDYyMiwxOTI5MzUwNTIzLC
-0xMzY4MTMyMjM0LDExOTE1NzM1NDUsLTUyMDAzMTM4MF19
+eyJoaXN0b3J5IjpbLTU1ODQwNTg4NiwtNTEwNjY4Mjg0LC0yMD
+c1Nzc5ODYsLTE3MDgzMTQ5MDMsNjMzMjY1NDE5LC0xMDg2ODUz
+OTYsMjA4MDI0MjA0MSwtNTg5MzE4MjQ3LC0xMTg3NjAwNjIyLD
+E5MjkzNTA1MjMsLTEzNjgxMzIyMzQsMTE5MTU3MzU0NSwtNTIw
+MDMxMzgwXX0=
 -->

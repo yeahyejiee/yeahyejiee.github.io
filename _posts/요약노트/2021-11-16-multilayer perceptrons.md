@@ -13,8 +13,9 @@ Activation Function (활성화함수)는 입력된 데이터의 가중 합을 �
 
 
 ### (1) Sigmoid
-0~1사이 값을 가진다. 
+0에서 1까지의 범위를 가진다. 밑 그림처럼 
 
+![딥 러닝에서 알아야 할 7 가지 인기있는 활성화 함수와 Keras 및 TensorFlow 2와 함께 사용하는 방법](https://ichi.pro/assets/images/max/724/1*mOyWsQ0HuPYLZ0B8c4rH-A.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyODI3NDQ2OTBdfQ==
+eyJoaXN0b3J5IjpbNDg5NDA2Nzk1XX0=
 -->

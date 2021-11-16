@@ -2,10 +2,11 @@
 
 
 
-' ' ' 
-input
-' ' ' 
+```
+input x
+h= $\sigmoid$ 
+```
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NzA4NTY5NV19
+eyJoaXN0b3J5IjpbLTQ4MDQzMjM0Nl19
 -->

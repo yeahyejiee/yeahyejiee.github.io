@@ -4,9 +4,9 @@
 
 ```
 input x
-h= $\sigma$ 
+h= \sigma 
 ```
-
+$\sigma$ 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgwMjkwMDczOV19
+eyJoaXN0b3J5IjpbMjExMDM3NjQ0Nl19
 -->

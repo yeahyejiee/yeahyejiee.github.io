@@ -1,9 +1,11 @@
 # 1. Single Hidden Layer
 
 
-'''
 
+' ' ' 
+input
+' ' ' 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA0NDAyNDU0NF19
+eyJoaXN0b3J5IjpbLTE3NzA4NTY5NV19
 -->

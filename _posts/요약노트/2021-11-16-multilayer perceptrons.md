@@ -5,6 +5,7 @@ single hidden layer란 말그대로 은닉층이 한개의 층으로 구성이 �
 $$input:    x \\h= \sigma (w_{1}x +b_{1}) \\  o=w_{2}^{T}+b_{2}$$
 
 ## 1) Activation Function (활성화함수)
+![퀀티랩 블로그 - 딥러닝 발전 과정](https://lh3.googleusercontent.com/proxy/p3_KJV_XOazdJmbz4AOLmG2ny7Xbj14AmoMZ1VOmpg1Bbc3mIpXsxX4qMWljqvJn26tl7kRDfgML-XEUnO2bFayXToqD6gVxTMyf1AYcjnP6BzzOF9Yt)
 
 Activation Function (활성화함수)는 입력된 데이터의 가중 합을 출력 신호로 변환하는 함수이다. 종류에는 Sigmoid, Tanh, ReLU 등이 있으며 소개할 함수이다.
 
@@ -12,7 +13,8 @@ Activation Function (활성화함수)는 입력된 데이터의 가중 합을 �
 
 
 ### (1) Sigmoid
+0~1사이 값을 가진다. 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA4MDYyMTk2XX0=
+eyJoaXN0b3J5IjpbLTEyODI3NDQ2OTBdfQ==
 -->

@@ -4,9 +4,10 @@
 
 ```
 input x
-h= \sigma 
+h= $\sigma (w_{1}x +b_{1}$
 ```
-$\sigma$ 
+
+h= $\sigma (w_{1}x +b_{1}$)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjExMDM3NjQ0Nl19
+eyJoaXN0b3J5IjpbLTg2NjE4MTkyMl19
 -->

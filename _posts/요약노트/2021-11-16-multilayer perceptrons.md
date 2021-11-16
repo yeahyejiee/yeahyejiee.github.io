@@ -15,10 +15,10 @@ Activation Function (활성화함수)는 입력된 데이터의 가중 합을 �
 ### (1) Sigmoid
 0에서 1까지의 범위를 가진다. 밑 그림처럼 미분할경우 최고점이 0에서 0.25이며 0에서 멀어질수록 0에 수렴하는 것을 볼 수 있다. 이에 따라 딥러닝 사용할때 weight가 소멸되는 문제점이 나타난다.
 
-$$\sigma(x)=$$
-s(z)=11+e−z
+$$sigmoid(x)=\frac{1}{1+e^−z}$$
+
 
 ![딥 러닝에서 알아야 할 7 가지 인기있는 활성화 함수와 Keras 및 TensorFlow 2와 함께 사용하는 방법](https://ichi.pro/assets/images/max/724/1*mOyWsQ0HuPYLZ0B8c4rH-A.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQxODczMzIwOF19
+eyJoaXN0b3J5IjpbLTI4NzEzOTE0NF19
 -->

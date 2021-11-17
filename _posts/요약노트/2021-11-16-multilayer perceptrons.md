@@ -22,9 +22,11 @@ $$\frac{d}{dx} sigmoid(x) = \frac{e^{-x} }{(1+e^{-x})^{2}} = sigmoid(x)(1-sigmoi
 ![딥 러닝에서 알아야 할 7 가지 인기있는 활성화 함수와 Keras 및 TensorFlow 2와 함께 사용하는 방법](https://ichi.pro/assets/images/max/724/1*mOyWsQ0HuPYLZ0B8c4rH-A.png)
 
 ### (2) Tanh
-출력 범위는 -1에서 1사이다. 
+출력 범위는 -1에서 1사이다.  밑 그림 (a)는  tanh의 그래프이며 (b)는 미분했을때 나오는 그래프이다. (a)일 경우 -1~1사이로 나오며 (b)는
 $$tanh(x)=\frac{1-e^{-2x}}{1+e^{−2x}}$$
 $$\frac{d}{dx} tanh(x) = 1-tanh^2(x) $$
+
+![Figure of sign and tanh function. (a) Figure of the tanh function. (b)... |  Download Scientific Diagram](https://www.researchgate.net/profile/Jia-Jun-Wang-2/publication/229073637/figure/fig2/AS:508425198989312@1498229421273/Figure-of-sign-and-tanh-function-a-Figure-of-the-tanh-function-b-Figure-of-the-sign.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkzNDUyNjE4MCw3NDg3NjM4M119
+eyJoaXN0b3J5IjpbMTUzNjQxNjUxOCw3NDg3NjM4M119
 -->

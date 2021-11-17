@@ -20,6 +20,10 @@ $$\frac{d}{dx} sigmoid(x) = \frac{e^{-x} }{(1+e^{-x})^{2}} = sigmoid(x)(1-sigmoi
 
 
 ![딥 러닝에서 알아야 할 7 가지 인기있는 활성화 함수와 Keras 및 TensorFlow 2와 함께 사용하는 방법](https://ichi.pro/assets/images/max/724/1*mOyWsQ0HuPYLZ0B8c4rH-A.png)
+
+### (2) Tanh
+출력 범위는 -1에서 1사이다. 
+$$tanh(x)=\frac{1-e^{-}}{1+e^{−x}}$$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTY3NDQ2NTE2LDc0ODc2MzgzXX0=
+eyJoaXN0b3J5IjpbMTM4MDI4MjY3LDc0ODc2MzgzXX0=
 -->

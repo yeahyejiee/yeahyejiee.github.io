@@ -36,8 +36,9 @@ $$tanh(x)=max(x,0) $$
 ![Activation Functions - HackMD](https://i.imgur.com/Rdsu9wG.png)
 
 + 변형으로도 쓰이는데,
-	P
+	$$PReLU(X) =M$$
+	![Figure 7 | Cascading and Residual Connected Network for Single Image  Superresolution](https://static-01.hindawi.com/articles/wcmc/volume-2021/5579090/figures/5579090.fig.007.svgz)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYzNjU4MzM4LC0xODk0MzUzNDUzLDc0OD
-c2MzgzXX0=
+eyJoaXN0b3J5IjpbMTkzOTIwOTM2OCwtMTg5NDM1MzQ1Myw3ND
+g3NjM4M119
 -->

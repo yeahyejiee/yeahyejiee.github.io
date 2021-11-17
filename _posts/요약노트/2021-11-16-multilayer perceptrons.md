@@ -5,7 +5,7 @@ single hidden layer란 말그대로 은닉층이 한개의 층으로 구성이 �
 $$input:    x \\h= \sigma (w_{1}x +b_{1}) \\  o=w_{2}^{T}+b_{2}$$
 
 ## 1) Activation Function (활성화함수)
-![퀀티랩 블로그 - 딥러닝 발전 과정](https://lh3.googleusercontent.com/proxy/p3_KJV_XOazdJmbz4AOLmG2ny7Xbj14AmoMZ1VOmpg1Bbc3mIpXsxX4qMWljqvJn26tl7kRDfgML-XEUnO2bFayXToqD6gVxTMyf1AYcjnP6BzzOF9Yt)
+![활성화 함수와 옵티마이저 공부 | kite_mo](https://wikidocs.net/images/page/60683/simple-neural-network.png)
 
 Activation Function (활성화함수)는 입력된 데이터의 가중 합을 출력 신호로 변환하는 함수이다. 종류에는 Sigmoid, Tanh, ReLU 등이 있으며 소개할 함수이다.
 
@@ -21,5 +21,5 @@ $$\frac{d}{dx} sigmoid(x) = \frac{e^{-x} }{(1+e^{-x})^{2}} = sigmoid(x)(1-sigmoi
 
 ![딥 러닝에서 알아야 할 7 가지 인기있는 활성화 함수와 Keras 및 TensorFlow 2와 함께 사용하는 방법](https://ichi.pro/assets/images/max/724/1*mOyWsQ0HuPYLZ0B8c4rH-A.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzQ4NzYzODNdfQ==
+eyJoaXN0b3J5IjpbOTY3NDQ2NTE2LDc0ODc2MzgzXX0=
 -->

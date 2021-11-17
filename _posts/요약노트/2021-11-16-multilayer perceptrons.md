@@ -23,7 +23,8 @@ $$\frac{d}{dx} sigmoid(x) = \frac{e^{-x} }{(1+e^{-x})^{2}} = sigmoid(x)(1-sigmoi
 
 ### (2) Tanh
 출력 범위는 -1에서 1사이다. 
-$$tanh(x)=\frac{1-e^{-}}{1+e^{−x}}$$
+$$tanh(x)=\frac{1-e^{-2x}}{1+e^{−2x}}$$
+$$\frac{d}{dx} tanh(x) = 1-tanh^2(x) $$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM4MDI4MjY3LDc0ODc2MzgzXX0=
+eyJoaXN0b3J5IjpbMTkzNDUyNjE4MCw3NDg3NjM4M119
 -->

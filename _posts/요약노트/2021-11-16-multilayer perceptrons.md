@@ -1,3 +1,16 @@
+---
+
+author: Hone Ye ji
+categories: 
+ - 딥러닝
+tags: 
+ - 딥러닝
+
+toc: true
+toc_label: "My Table of Contents"
+toc_icon: "cog"
+---
+
 # 1. Single Hidden Layer
 
 

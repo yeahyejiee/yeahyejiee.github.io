@@ -22,11 +22,16 @@ $$\frac{d}{dx} sigmoid(x) = \frac{e^{-x} }{(1+e^{-x})^{2}} = sigmoid(x)(1-sigmoi
 ![딥 러닝에서 알아야 할 7 가지 인기있는 활성화 함수와 Keras 및 TensorFlow 2와 함께 사용하는 방법](https://ichi.pro/assets/images/max/724/1*mOyWsQ0HuPYLZ0B8c4rH-A.png)
 
 ### (2) Tanh
-출력 범위는 -1에서 1사이다.  밑 그림 왼쪽은  tanh의 그래프이며 오른쪽은 미분했을때 나오는 그래프이다. 왼쪽일 경우 -1~1사이로 나오며 오른쪽은 0에서 1의 값을 가지며 0에서 멀어질 수록 
+출력 범위는 -1에서 1사이다.  밑 그림 왼쪽은  tanh의 그래프이며 오른쪽은 미분했을때 나오는 그래프이다. 왼쪽일 경우 -1~1사이로 나오며 오른쪽은 0에서 1의 값을 가지며 0에서 멀어질 수록 0, 즉 소멸된다.
+
 $$tanh(x)=\frac{1-e^{-2x}}{1+e^{−2x}}$$
 $$\frac{d}{dx} tanh(x) = 1-tanh^2(x) $$
 
 ![딥 러닝에서 알아야 할 7 가지 인기있는 활성화 함수와 Keras 및 TensorFlow 2와 함께 사용하는 방법](https://ichi.pro/assets/images/max/724/1*jW-JYhK4I-CbahDaapWzXg.png)
+
+### (3) ReLU
+ReLU는 미분 값이 사라지지않아서 많이 사용된다.
+$$tanh(x)=max(x,0) $$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MjU2NTk3NzMsNzQ4NzYzODNdfQ==
+eyJoaXN0b3J5IjpbMTA3OTQ1MzkzNCw3NDg3NjM4M119
 -->

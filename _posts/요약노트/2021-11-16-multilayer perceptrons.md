@@ -30,8 +30,10 @@ $$\frac{d}{dx} tanh(x) = 1-tanh^2(x) $$
 ![딥 러닝에서 알아야 할 7 가지 인기있는 활성화 함수와 Keras 및 TensorFlow 2와 함께 사용하는 방법](https://ichi.pro/assets/images/max/724/1*jW-JYhK4I-CbahDaapWzXg.png)
 
 ### (3) ReLU
-ReLU는 미분 값이 사라지지않아서 많이 사용된다.
+ReLU는 미분 값이 사라지지않아서 많이 사용된다. 음수를 가지지않고 0이상의 값을 가진다. 즉, 양수다. 미분할경우, 음수는 0을 양수는 1의 값을 가진다.
 $$tanh(x)=max(x,0) $$
+
+![딥러닝 - 활성화 함수(Activation) 종류 및 비교 : 네이버 블로그](https://mblogthumb-phinf.pstatic.net/MjAyMDAyMjVfOTIg/MDAxNTgyNjA4MzI2NDA5.e0VyX0yrhE5gtfPjni7IxF5kpArCeByreQsdOMB0240g.CWwTi57bPtAK6C7eLmRn1ED2RE8Lm_C6sVIwMGJS1Akg.PNG.handuelly/image.png?type=w800)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA3OTQ1MzkzNCw3NDg3NjM4M119
+eyJoaXN0b3J5IjpbLTE4OTQzNTM0NTMsNzQ4NzYzODNdfQ==
 -->

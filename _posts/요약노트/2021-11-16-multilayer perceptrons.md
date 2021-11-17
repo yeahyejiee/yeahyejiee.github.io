@@ -33,7 +33,11 @@ $$\frac{d}{dx} tanh(x) = 1-tanh^2(x) $$
 ReLU는 미분 값이 사라지지않아서 많이 사용된다. 음수를 가지지않고 0이상의 값을 가진다. 즉, 양수다. 미분할경우, 음수는 0을 양수는 1의 값을 가진다.
 $$tanh(x)=max(x,0) $$
 
-![딥러닝 - 활성화 함수(Activation) 종류 및 비교 : 네이버 블로그](https://mblogthumb-phinf.pstatic.net/MjAyMDAyMjVfOTIg/MDAxNTgyNjA4MzI2NDA5.e0VyX0yrhE5gtfPjni7IxF5kpArCeByreQsdOMB0240g.CWwTi57bPtAK6C7eLmRn1ED2RE8Lm_C6sVIwMGJS1Akg.PNG.handuelly/image.png?type=w800)
+![Activation Functions - HackMD](https://i.imgur.com/Rdsu9wG.png)
+
++ 변형으로도 쓰이는데,
+	P
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4OTQzNTM0NTMsNzQ4NzYzODNdfQ==
+eyJoaXN0b3J5IjpbMTYzNjU4MzM4LC0xODk0MzUzNDUzLDc0OD
+c2MzgzXX0=
 -->

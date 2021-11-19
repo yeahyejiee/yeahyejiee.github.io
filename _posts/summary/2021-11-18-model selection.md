@@ -1,10 +1,12 @@
+
 ---
 
 author: Hone Ye ji
 categories: 
  - deep learning
+ 
 tags: 
- - deep learning
+  - deep learning
 
 toc: true
 toc_label: "My Table of Contents"
@@ -68,5 +70,5 @@ toc_icon: "cog"
 	* **precision**은 p로 시작하니깐 positive와 **prediction**(예측)과 연관해서 예측이 맞은 것을 기준으로 정답 yes와 no를 다 쓴다라고 생각
 	* **recall**은 **real**로 실제 데이터다 라고 생각해서 정답이 yes기준으로 예측yes와 no를 다 쓴다고 생각
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzk2NDMwMDA1XX0=
+eyJoaXN0b3J5IjpbLTQ2NDY2ODU5OSwzOTY0MzAwMDVdfQ==
 -->

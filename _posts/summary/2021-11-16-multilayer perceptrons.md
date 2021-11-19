@@ -2,9 +2,9 @@
 
 author: Hone Ye ji
 categories: 
- - 딥러닝
+ - deep learning
 tags: 
- - 딥러닝
+ - deep learning
 
 toc: true
 toc_label: "My Table of Contents"
@@ -67,5 +67,5 @@ $$input:x \\
 hidden layer(은닉층)이 많아지면 복잡도가 증가하여 오버피팅(overfitting)이 될 가능성이 높다. 다음시간에 이러한 문제를 방지하기 위해 필요한 모델 선택과 관련하여 정리한다.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNjI3NjA5MzddfQ==
+eyJoaXN0b3J5IjpbLTUwNTEwMDE0NV19
 -->

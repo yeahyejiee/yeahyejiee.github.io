@@ -4,13 +4,16 @@
 author: Hone Ye ji
 categories: 
  - deep learning
+ 
 tags: 
- - deep learning
+  - deep learning
 
 toc: true
 toc_label: "My Table of Contents"
 toc_icon: "cog"
 ---
+
+
 ## Model Selection
 
 모델 선택을 하기위해 여러가지 검증하는 법이 있다. 대표적인 Hold-out, k-fold cross validation, Nested cross-validation에 대해 언급한다.

@@ -30,7 +30,7 @@ toc_icon: "cog"
 ### 2) K-fold cross validation
 데이터 수가 적을 경우, hold-out방법으로 성능평가하는 것은 신뢰도가 떨어진다. 그래서 여러번 나눠서 모든데이터가 최소한번은 test로 쓰자라는 개념에서 나온 것이 k-fold crossvalidation이다.
 
-![Cassava Leaf Disease Classification | Kaggle](https://www.googleapis.com/download/storage/v1/b/kaggle-forum-message-attachments/o/inbox%2F4367831%2Fa7eaffa417f9905be8f0e22af7326ac0%2Fk-fold.jpg?generation=1609935772242624&alt=media)
+![image](https://user-images.githubusercontent.com/45659433/142599431-40a31ccd-6c49-4a88-9f46-18aaab599c33.png)
 
 **k-fold crossvalidation**은 전체 데이터를 k의 fold를 만들고 각 fold에 train과 test를 나누어 모델을 생성하게 된다. k는 대부분 5나 10을 사용하게되며 k=5일 경우, 총 5번 모델을 생성된다. 그림처럼 test는 그전에 사용된 것이 아닌 다른 것으로 진행된다. 최종평가(정확도)는 k개의 모델에서 나오는 test의 평균값으로 측정된다.
 
@@ -70,5 +70,5 @@ toc_icon: "cog"
 	* **precision**은 p로 시작하니깐 positive와 **prediction**(예측)과 연관해서 예측이 맞은 것을 기준으로 정답 yes와 no를 다 쓴다라고 생각
 	* **recall**은 **real**로 실제 데이터다 라고 생각해서 정답이 yes기준으로 예측yes와 no를 다 쓴다고 생각
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ2NDY2ODU5OSwzOTY0MzAwMDVdfQ==
+eyJoaXN0b3J5IjpbMTMxMTk1NTg0MiwzOTY0MzAwMDVdfQ==
 -->

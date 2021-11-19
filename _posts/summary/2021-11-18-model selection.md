@@ -1,12 +1,10 @@
-
 ---
 
 author: Hone Ye ji
 categories: 
  - deep learning
- 
 tags: 
-  - deep learning
+ - deep learning
 
 toc: true
 toc_label: "My Table of Contents"

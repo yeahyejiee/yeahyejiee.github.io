@@ -4,7 +4,6 @@ author: Hone Ye ji
 categories: 
  - deep learning
  - CNN 
- 
 tags: 
  - deep learning
 

@@ -307,5 +307,6 @@ defaults:
       related: true
       sidebar_main: true
 
-
+category_dir: category/
+tag_dir: tag/
 

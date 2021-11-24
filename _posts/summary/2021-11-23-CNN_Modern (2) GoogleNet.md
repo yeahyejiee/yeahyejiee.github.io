@@ -27,8 +27,8 @@ toc_icon: "cog"
 
 ### 2) mini-batch : 데이터를 여러개로 쪼개는 것을 의미
 ### 3) 정규화
-#### 3-1. 정규화 1
-- $$ 
+#### 3-1. 정규화 1 :
+- $\hat x =$ x-x_min \  x_max -x_min 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEwOTkzOTI0MCwtOTA3MzA3MTgxXX0=
+eyJoaXN0b3J5IjpbNTg5MzI2NDUzLC05MDczMDcxODFdfQ==
 -->

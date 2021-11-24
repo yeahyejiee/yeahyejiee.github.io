@@ -12,6 +12,7 @@ toc: true
 toc_label: "My Table of Contents"
 toc_icon: "cog"
 ---
+
 kaggle의 Titanic: Machine Learning from Disaster를 연습해보겠습니다.
 
 ```python

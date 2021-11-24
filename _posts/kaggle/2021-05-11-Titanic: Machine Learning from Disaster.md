@@ -287,7 +287,7 @@ test.head()
 
 
 
-#### test: survived 컬럼 없음 -> 맞춰야 하므로
+- test: survived 컬럼 없음 -> 맞춰야 하므로
 
 
 ```python
@@ -297,7 +297,7 @@ print(train.shape,test.shape)
     (891, 12) (418, 11)
     
 
-#### 정보가 없는 경우 있어서 약간의 조정이 필요
+- 정보가 없는 경우 있어서 약간의 조정이 필요
 
 
 ```python
@@ -1895,7 +1895,7 @@ train.info()
     memory usage: 69.7 KB
     
 
-#### Cross Validation (k-fold)
+#### 1) Cross Validation (k-fold)
 
 
 ```python
@@ -1904,7 +1904,7 @@ from sklearn.model_selection import cross_val_score
 k_fold=KFold(n_splits=8,shuffle=True,random_state=0)
 ```
 
-#### knn
+#### 2) knn
 데이터를 분류를 할 때 k개의 이웃 중 거리가 가까운 이웃의 영향을 더 많이 받도록 weight 지정 가능
 
 
@@ -1932,7 +1932,7 @@ round(np.mean(score)*100,2)
 
 
 
-#### Decision Tree
+#### 3) Decision Tree
 
 
 
@@ -1982,7 +1982,7 @@ round(np.mean(score)*100,2)
 
 
 
-#### Naive Bayes
+#### 4) Naive Bayes
 
 
 ```python
@@ -2052,7 +2052,7 @@ round(np.mean(score)*100,2)
 
 
 
-#### linear model
+#### 5) linear model
 
 
 ```python

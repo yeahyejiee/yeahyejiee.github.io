@@ -16,15 +16,15 @@ toc_icon: "cog"
 kaggle의 House price를 연습해보겠습니다.
 
 
-### House Price
-#### id로 salePrice를 예측
+## House Price
+- id로 salePrice를 예측
 
 
 ```python
 import pandas as pd
 ```
 
-## 1. data load
+### 1. data load
 
 
 ```python
@@ -562,7 +562,7 @@ print('문자형 변수',cate)
           dtype='object')
     
 
-### 1)이상치 탐색 및 제거
+#### 1)이상치 탐색 및 제거
 
 
 ```python
@@ -933,7 +933,7 @@ train.shape
 
 
 
-### 2) 결측치 발견
+#### 2) 결측치 발견
 
 
 ```python
@@ -1157,7 +1157,7 @@ missing.plot.bar(figsize = (12,6))
 
 LotFrontage, Fence, Alley, MiscFeature, PoolQC 의 변수들에서 결측치가 많이 발견
 
-### 3) Skewness (왜도=비대칭도)
+#### 3) Skewness (왜도=비대칭도)
 - 왜도 : 얼마나 비대칭인지 , 정규분포가 아닌지 , a<0 오른쪽에 치우침,
 - 첨도: 뾰족한 정도 , 중심에 집중되어 있는지
 
@@ -1208,7 +1208,7 @@ for col in numeric:
     SalePrice       Skewness: 01.29   Kurtosis: 002.56
     
 
-## 2. Numerical Feature
+### 2. Numerical Feature
 
 
 ```python
@@ -1225,7 +1225,7 @@ warnings.filterwarnings("ignore")
 %matplotlib inline
 ```
 
-#### numeric한 변수에 대해서 만
+#### numeric한 변수에 대해서만
 
 - 변수의 상관관계를 파악 
 - 색이 진하면 관계가 높다 (다중공선성이 있을 수 있다)
@@ -1344,7 +1344,7 @@ YearRemodAdd_scatter_plot.plot.scatter('YearRemodAdd','SalePrice')
 
 - OverallQual, GarageCars, Fullbath 는 범주형 특성 (등급, 갯수)
 
-### categorical 변수
+#### categorical 변수
 
 
 ```python
@@ -1727,9 +1727,9 @@ catg_weak_corr = ['Street', 'Alley', 'LotShape', 'LandContour', 'Utilities', 'Lo
 
 ```
 
-## 3. feature engineering
+### 3. feature engineering
 
-### 1) 왜도 첨도 해결
+#### 1) 왜도 첨도 해결
 
 
 ```python
@@ -1773,7 +1773,7 @@ train.drop('SalePrice', axis= 1, inplace=True)
 ![output_44_1](https://user-images.githubusercontent.com/45659433/119081395-d802e200-ba36-11eb-9b86-c86307ac1a32.png)
 
 
-### 2) 결측치 해결
+#### 2) 결측치 해결
 
 - 결측의 의미가 있다 없다 중 하나일 경우
 
@@ -2527,7 +2527,7 @@ test.head()
 
 
 
-## 4. 모델
+### 4. 모델
 
 
 ```python
@@ -2540,7 +2540,7 @@ X_test = test.values
 X_tr, X_vld, y_tr, y_vld = train_test_split(X_train, target_label, test_size = 0.3, random_state = 2000) #train을 70% 
 ```
 
-### 1) XGBoost
+#### 1) XGBoost
 
 
 ```python
@@ -2731,7 +2731,7 @@ print(accuracies.std())
     0.06551870893118561
     
 
-## 제출
+- 제출
 
 
 ```python
@@ -2747,7 +2747,7 @@ if use_logvals == 1:
 
 ```
 
-## 2) DecisionTreeRegressor
+#### 2) DecisionTreeRegressor
 
 
 ```python
@@ -2796,6 +2796,7 @@ print(accuracies.std())
     0.05883212599174881
     
 
+- 제출코드
 
 ```python
 sub_xgb = pd.DataFrame() 

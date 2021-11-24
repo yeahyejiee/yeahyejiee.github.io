@@ -6,6 +6,10 @@ categories:
  - ml
 tags: 
  - kaggle
+ 
+toc: true
+toc_label: "My Table of Contents"
+toc_icon: "cog"
 ---
 kaggle의 House price를 연습해보겠습니다.
 
@@ -2807,3 +2811,6 @@ DecisionTreeRegressor이 더 좋게 나왔답니다.
 ```python
 
 ```
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTc2MjQ0NTM4NV19
+-->

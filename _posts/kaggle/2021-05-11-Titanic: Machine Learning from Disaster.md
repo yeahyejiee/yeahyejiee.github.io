@@ -7,6 +7,10 @@ categories:
  
 tags: 
  - kaggle
+ 
+toc: true
+toc_label: "My Table of Contents"
+toc_icon: "cog"
 ---
 kaggle의 Titanic: Machine Learning from Disaster를 연습해보겠습니다.
 
@@ -2248,3 +2252,6 @@ print(submit)
 ```python
 
 ```
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbNTAxNTMzMDM5XX0=
+-->

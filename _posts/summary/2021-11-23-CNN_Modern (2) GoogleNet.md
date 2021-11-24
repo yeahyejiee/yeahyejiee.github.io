@@ -27,8 +27,11 @@ toc_icon: "cog"
 
 ### 2) mini-batch : 데이터를 여러개로 쪼개는 것을 의미
 ### 3) 정규화
-#### 3-1. 정규화 1 : 입력데이터의 학습속도 개선(변수 scale영향 없앰)
-- $\hat x =$ $\frac{ x-x_{min} { x_{max} - x_{min}}$
+#### 3-1. 정규화 1 :  min-max
+$\hat x =$ $\frac{ x-x_{min}} { x_{max} - x_{min}}$
+- 입력데이터의 학습속도 개선(변수 scale영향 없앰)
+#### 3-2. 정규화 2: z-score(normalization)
+$\hat x =$ $\frac{ x-E[X]} { x_{max} - x_{min}}$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTg0MTk3OTY0LC05MDczMDcxODFdfQ==
+eyJoaXN0b3J5IjpbMTI0NDc4OTIzOSwtOTA3MzA3MTgxXX0=
 -->

@@ -3741,7 +3741,7 @@ plt.show()
 
 - 참고:
 
-1) [kaggle][필사] Spooky Author Identification
+)- [kaggle][필사] Spooky Author Identification
 2) [10주차] 새벽 5시 캐글(kaggle)필사하기-Spooky-author data
 3) Scikit-Learn의 문서 전처리 기능
 
@@ -3750,5 +3750,5 @@ plt.show()
 
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTczMTUxNDAxXX0=
+eyJoaXN0b3J5IjpbLTEyODI2OTAwMzksNTczMTUxNDAxXX0=
 -->

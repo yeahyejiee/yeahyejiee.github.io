@@ -20,7 +20,13 @@ toc_icon: "cog"
 -
 
 ## Batch normalization
+### 1) 장점
+- 학습속도 개선 (빠른 속도로 가능)
+- 가중치 초기화에 대한 민감도 감소
+- 모델의 일반화(regularization)효과
 
+### 2) mini-batch : 데이터를 여러개로 쪼개는 것을 의미
+ 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTQ3OTI1OTI0LC05MDczMDcxODFdfQ==
+eyJoaXN0b3J5IjpbLTEwODYzNDc1NjQsLTkwNzMwNzE4MV19
 -->

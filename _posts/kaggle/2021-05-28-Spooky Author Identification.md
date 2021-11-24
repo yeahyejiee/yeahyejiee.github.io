@@ -16,9 +16,9 @@ toc_icon: "cog"
 kaggle의 Spooky Author Identification를 연습해보겠습니다.
 
 
-# Spooky Author Identification
-#### 공포이야기에 있는 문장의 단어를 분석하여 작가를 예측
-#### 제출: id + 3명의 작가에 대한 확률 => 3개의 클래스로 텍스트 분류
+## Spooky Author Identification
+- 공포이야기에 있는 문장의 단어를 분석하여 작가를 예측
+- 제출: id + 3명의 작가에 대한 확률 => 3개의 클래스로 텍스트 분류
 
 
 ```python
@@ -364,7 +364,7 @@ plt.axis('off')
 
 ### 2. 데이터 전처리
 
-##### 작가의 이름을 0,1,2로 변환
+- 작가의 이름을 0,1,2로 변환
 
 
 ```python
@@ -410,7 +410,7 @@ print( y_valid.shape)
     (5874,)
     
 
-#### 원핫인코딩
+- 원핫인코딩
 
 
 ```python
@@ -488,9 +488,9 @@ xtrain_pad[:2]
 
 
 
-## 5.모델
+### 5.모델
 
-## 모델1:  Bidirectional LSTM 
+#### 모델1:  Bidirectional LSTM 
 
 
 ```python
@@ -581,7 +581,7 @@ plt.show()
 ![output_46_0](https://user-images.githubusercontent.com/45659433/119966797-a06fd900-bfe6-11eb-8e30-f298d99e63d3.png)
 
 
-## 모델2 : LSTM 조정
+#### 모델2 : LSTM 조정
 
 
 ```python
@@ -687,7 +687,7 @@ plt.show()
 ![output_52_0](https://user-images.githubusercontent.com/45659433/119966802-a1086f80-bfe6-11eb-82ea-57a82024b053.png)
 
 
-## 모델3: GRU
+#### 모델3: GRU
 
 
 ```python
@@ -792,7 +792,7 @@ plt.show()
 ![output_56_0](https://user-images.githubusercontent.com/45659433/119966803-a1086f80-bfe6-11eb-8d6c-9d44e1d50b2d.png)
 
 
-## 6. 모델 선택
+### 6. 모델 선택
 
 
 ```python
@@ -924,7 +924,7 @@ result.head()
 result.to_csv('submit.csv',index=False)
 ```
 
-## 추가. 자연어처리 전처리 분석관련
+### 추가. 자연어처리 전처리 분석관련
 
 - CountVectorizer:
 
@@ -939,7 +939,7 @@ CountVectorizer와 비슷하지만 TF-IDF 방식으로 단어의 가중치를 �
 from sklearn.feature_extraction.text import TfidfVectorizer, CountVectorizer
 ```
 
-### CountVectorizer
+#### CountVectorizer
 
 1) 문서를 토큰 리스트로 변환한다.
 
@@ -2868,7 +2868,7 @@ vect.vocabulary_
 
 
 
-### CountVectorizer()의 이외 옵션 
+#### CountVectorizer()의 이외 옵션 
 
 analyzer="char"
 
@@ -2880,7 +2880,7 @@ token_pattern="t\w+"
 tokenizer=nltk.word_tokenize
 : 단어 토큰한
 
-## n-gram
+#### n-gram
 - (2,2) : 2개의 연결된 토큰을 한단어로
 - (1,2): 1개 또는 2개의 연결된 토큰을 한단어로
 
@@ -3201,7 +3201,7 @@ vect.vocabulary_
 
 
 
-## 빈도
+#### 빈도
 - 토큰의 빈도가 max_df로 지정한 값을 초과 하거나 min_df로 지정한 값보다 작은 경우에는 무시
 
 
@@ -3582,7 +3582,7 @@ tags
 
 
 
-## TF-IDF (Term Frequency -Inverse Documnet Frequency)
+#### TF-IDF (Term Frequency -Inverse Documnet Frequency)
 
 - 인코딩은 단어를 갯수 그대로 카운트하지 않고 모든 문서에 공통적으로 들어있는 단어의 경우 문서 구별 능력이 떨어진다고 보아 가중치를 축소
 
@@ -3663,7 +3663,7 @@ tfv.vocabulary_
 
 
 
-##### 빈도수 높은 단어
+#### 빈도수 높은 단어
 
 
 ```python
@@ -3719,7 +3719,7 @@ tags
 
 
 
-##### 워드클라우드로 시각화
+#### 워드클라우드로 시각화
 
 
 ```python
@@ -3739,13 +3739,11 @@ plt.show()
 ![output_93_0](https://user-images.githubusercontent.com/45659433/119966807-a1086f80-bfe6-11eb-871c-756b536bd6bf.png)
 
 
-#### 참고:
+- 참고:
 
-- [kaggle][필사] Spooky Author Identification
-
-- [10주차] 새벽 5시 캐글(kaggle)필사하기-Spooky-author data
-
-- Scikit-Learn의 문서 전처리 기능
+1) [kaggle][필사] Spooky Author Identification
+2) [10주차] 새벽 5시 캐글(kaggle)필사하기-Spooky-author data
+3) Scikit-Learn의 문서 전처리 기능
 
 
 ```python

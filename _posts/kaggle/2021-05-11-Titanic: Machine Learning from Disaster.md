@@ -19,7 +19,7 @@ kaggle의 Titanic: Machine Learning from Disaster를 연습해보겠습니다.
 import pandas as pd
 ```
 
-## 1) 데이터 불러오기
+### 1. 데이터 불러오기
 
 
 ```python
@@ -297,7 +297,7 @@ print(train.shape,test.shape)
     (891, 12) (418, 11)
     
 
-### 정보가 없는 경우 있어서 약간의 조정이 필요
+#### 정보가 없는 경우 있어서 약간의 조정이 필요
 
 
 ```python
@@ -395,7 +395,7 @@ test.isnull().sum()
 
 
 
-# 2) 시각화
+### 2. 시각화
 
 
 ```python
@@ -469,7 +469,7 @@ bar_chart("Parch")
 ![output_27_0](https://user-images.githubusercontent.com/45659433/119081848-d685e980-ba37-11eb-9df8-773df208475d.png)
 
 
-## 3) feature engineering
+### 3. feature engineering
 
 
 ```python
@@ -1859,7 +1859,7 @@ train_data=train.drop("Survived",axis=1)
 target=train["Survived"]
 ```
 
-## 4) 모델링
+### 4. 모델링
 
 
 ```python
@@ -1895,7 +1895,7 @@ train.info()
     memory usage: 69.7 KB
     
 
-### Cross Validation (k-fold)
+#### Cross Validation (k-fold)
 
 
 ```python
@@ -1904,7 +1904,7 @@ from sklearn.model_selection import cross_val_score
 k_fold=KFold(n_splits=8,shuffle=True,random_state=0)
 ```
 
-### knn
+#### knn
 데이터를 분류를 할 때 k개의 이웃 중 거리가 가까운 이웃의 영향을 더 많이 받도록 weight 지정 가능
 
 
@@ -1932,7 +1932,7 @@ round(np.mean(score)*100,2)
 
 
 
-### Decision Tree
+#### Decision Tree
 
 
 
@@ -1982,7 +1982,7 @@ round(np.mean(score)*100,2)
 
 
 
-### Naive Bayes
+#### Naive Bayes
 
 
 ```python
@@ -2052,7 +2052,7 @@ round(np.mean(score)*100,2)
 
 
 
-### linear model
+#### linear model
 
 
 ```python
@@ -2071,7 +2071,7 @@ clf.score(train_data, target)
 
 
 
-## 5) Testing
+### 5. Testing
 
 
 ```python

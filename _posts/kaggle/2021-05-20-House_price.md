@@ -563,7 +563,8 @@ print('문자형 변수',cate)
     
 ### 2. 데이터 전처리
 
-#### 1)이상치 탐색 및 제거
+#
+### 1)이상치 탐색 및 제거
 
 
 ```python
@@ -2816,5 +2817,5 @@ DecisionTreeRegressor이 더 좋게 나왔답니다.
 
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc2MjQ0NTM4NV19
+eyJoaXN0b3J5IjpbMjQ5MDkwMTQsLTc2MjQ0NTM4NV19
 -->

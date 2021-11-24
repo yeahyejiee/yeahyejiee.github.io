@@ -26,7 +26,9 @@ toc_icon: "cog"
 - 모델의 일반화(regularization)효과
 
 ### 2) mini-batch : 데이터를 여러개로 쪼개는 것을 의미
- 
+### 3) 정규화
+#### 3-1. 정규화 1
+- $$ 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwODYzNDc1NjQsLTkwNzMwNzE4MV19
+eyJoaXN0b3J5IjpbMjEwOTkzOTI0MCwtOTA3MzA3MTgxXX0=
 -->

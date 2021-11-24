@@ -561,6 +561,7 @@ print('문자형 변수',cate)
            'SaleType', 'SaleCondition'],
           dtype='object')
     
+### 2. 데이터 전처리
 
 #### 1)이상치 탐색 및 제거
 
@@ -1116,7 +1117,7 @@ for col in test.columns:
     column: SaleCondition	 Percent of NaN value: 0.00%
     
 
-#### 결측치가 1개이상인 변수에 대해 확인
+#### 3) 결측치가 1개이상인 변수에 대해 확인
 
 
 ```python
@@ -1157,7 +1158,7 @@ missing.plot.bar(figsize = (12,6))
 
 LotFrontage, Fence, Alley, MiscFeature, PoolQC 의 변수들에서 결측치가 많이 발견
 
-#### 3) Skewness (왜도=비대칭도)
+#### 4) Skewness (왜도=비대칭도)
 - 왜도 : 얼마나 비대칭인지 , 정규분포가 아닌지 , a<0 오른쪽에 치우침,
 - 첨도: 뾰족한 정도 , 중심에 집중되어 있는지
 
@@ -1208,7 +1209,7 @@ for col in numeric:
     SalePrice       Skewness: 01.29   Kurtosis: 002.56
     
 
-### 2. Numerical Feature
+### 3. Numerical Feature
 
 
 ```python
@@ -1225,7 +1226,7 @@ warnings.filterwarnings("ignore")
 %matplotlib inline
 ```
 
-#### numeric한 변수에 대해서만
+#### 1) numeric한 변수에 대해서만
 
 - 변수의 상관관계를 파악 
 - 색이 진하면 관계가 높다 (다중공선성이 있을 수 있다)
@@ -1344,7 +1345,7 @@ YearRemodAdd_scatter_plot.plot.scatter('YearRemodAdd','SalePrice')
 
 - OverallQual, GarageCars, Fullbath 는 범주형 특성 (등급, 갯수)
 
-#### categorical 변수
+#### 2) categorical 변수
 
 
 ```python
@@ -1727,7 +1728,7 @@ catg_weak_corr = ['Street', 'Alley', 'LotShape', 'LandContour', 'Utilities', 'Lo
 
 ```
 
-### 3. feature engineering
+### 4. feature engineering
 
 #### 1) 왜도 첨도 해결
 
@@ -2527,7 +2528,7 @@ test.head()
 
 
 
-### 4. 모델
+### 5. 모델
 
 
 ```python

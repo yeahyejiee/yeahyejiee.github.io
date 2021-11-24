@@ -36,7 +36,10 @@ $\hat x =$ $\frac{ x-E[X]} { Var[X]}$
 
 ### 4) TRAIN 
 
+### 5) Convariate Shift의 문제해결
+- train set의 분포와 test set의 분포가 변화하는 현상
+### 6) 미니배치 이용 -> 정규화(평균,분산) -> 노이즈 발생
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk4NDk3NjUzMywtMTA3NDE3Njk4MiwtOT
-A3MzA3MTgxXX0=
+eyJoaXN0b3J5IjpbLTEwODE0NzIyNDUsLTEwNzQxNzY5ODIsLT
+kwNzMwNzE4MV19
 -->

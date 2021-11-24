@@ -31,7 +31,11 @@ toc_icon: "cog"
 $\hat x =$ $\frac{ x-x_{min}} { x_{max} - x_{min}}$
 - 입력데이터의 학습속도 개선(변수 scale영향 없앰)
 #### 3-2. 정규화 2: z-score(normalization)
-$\hat x =$ $\frac{ x-E[X]} { x_{max} - x_{min}}$
+$\hat x =$ $\frac{ x-E[X]} { Var[X]}$
+- 분포가 0을 중심으로 스케일 됨
+-
+### 4) TRAIN 
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI0NDc4OTIzOSwtOTA3MzA3MTgxXX0=
+eyJoaXN0b3J5IjpbLTEwNzQxNzY5ODIsLTkwNzMwNzE4MV19
 -->

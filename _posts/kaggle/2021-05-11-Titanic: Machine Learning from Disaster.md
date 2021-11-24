@@ -19,7 +19,7 @@ kaggle의 Titanic: Machine Learning from Disaster를 연습해보겠습니다.
 import pandas as pd
 ```
 
-### 1. 데이터 불러오기
+### 1 데이터 불러오기
 
 
 ```python
@@ -297,7 +297,7 @@ print(train.shape,test.shape)
     (891, 12) (418, 11)
     
 
-- 정보가 없는 경우 있어서 약간의 조정이 필요
+-# 정보가 없는 경우 있어서 약간의 조정이 필요
 
 
 ```python
@@ -395,7 +395,7 @@ test.isnull().sum()
 
 
 
-### 2. 시각화
+### 2 시각화
 
 
 ```python
@@ -469,7 +469,7 @@ bar_chart("Parch")
 ![output_27_0](https://user-images.githubusercontent.com/45659433/119081848-d685e980-ba37-11eb-9df8-773df208475d.png)
 
 
-### 3. feature engineering
+### 3 feature engineering
 
 
 ```python
@@ -1859,7 +1859,7 @@ train_data=train.drop("Survived",axis=1)
 target=train["Survived"]
 ```
 
-### 4. 모델링
+### 4 모델링
 
 
 ```python
@@ -2071,7 +2071,7 @@ clf.score(train_data, target)
 
 
 
-### 5. Testing
+### 5 Testing
 
 
 ```python
@@ -2254,5 +2254,5 @@ print(submit)
 
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTAxNTMzMDM5XX0=
+eyJoaXN0b3J5IjpbMTgwNjIwMTcwMSw1MDE1MzMwMzldfQ==
 -->

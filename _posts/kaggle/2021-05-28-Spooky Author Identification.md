@@ -6,6 +6,9 @@ categories:
  - ml
 tags: 
  - kaggle
+toc: true
+toc_label: "My Table of Contents"
+toc_icon: "cog"
 ---
 kaggle의 Spooky Author Identification를 연습해보겠습니다.
 
@@ -3745,3 +3748,6 @@ plt.show()
 ```python
 
 ```
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTE0MTIyNjQ1MzddfQ==
+-->

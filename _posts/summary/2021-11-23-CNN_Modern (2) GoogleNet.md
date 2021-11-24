@@ -33,9 +33,10 @@ $\hat x =$ $\frac{ x-x_{min}} { x_{max} - x_{min}}$
 #### 3-2. 정규화 2: z-score(normalization)
 $\hat x =$ $\frac{ x-E[X]} { Var[X]}$
 - 분포가 0을 중심으로 스케일 됨
--
+
 ### 4) TRAIN 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNzQxNzY5ODIsLTkwNzMwNzE4MV19
+eyJoaXN0b3J5IjpbLTk4NDk3NjUzMywtMTA3NDE3Njk4MiwtOT
+A3MzA3MTgxXX0=
 -->

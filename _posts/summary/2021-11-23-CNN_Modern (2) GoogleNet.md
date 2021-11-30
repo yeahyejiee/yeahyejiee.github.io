@@ -17,7 +17,7 @@ toc_icon: "cog"
 - 다층 계층을 직렬로 연결
 - 초반(AlexNet과 LeNet과 유사)
 - Global Avg Pool (FC layer 같은 역할)
--
+
 
 ## Batch normalization
 ### 1) 장점
@@ -41,6 +41,6 @@ $\hat x =$ $\frac{ x-E[X]} { Var[X]}$
 ### 6) 미니배치 이용 -> 정규화(평균,분산) -> 노이즈 발생
 - 배치 정규화 : 일반화 효과( drop out같은) , 속도, 오버피팅 방지
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM5MDgxODE2NywtMTA3NDE3Njk4MiwtOT
-A3MzA3MTgxXX0=
+eyJoaXN0b3J5IjpbMjA0MTgzMjE4LDEzOTA4MTgxNjcsLTEwNz
+QxNzY5ODIsLTkwNzMwNzE4MV19
 -->

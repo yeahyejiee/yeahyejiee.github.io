@@ -1,5 +1,6 @@
-layout=
-
+---
+layout=single
+---
 
 
 <center><img src="https://user-images.githubusercontent.com/45659433/129288124-3ca60025-7beb-45a5-99e2-008efc1247b4.jpg" width="70%" height="70%"></center>  
@@ -86,9 +87,9 @@ layout=
 
 [Naver_Blog](https://blog.naver.com/dreamhigh151)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTAxNDQ5MjkzLC01NTg0MDU4ODYsLTUxMD
-Y2ODI4NCwtMjA3NTc3OTg2LC0xNzA4MzE0OTAzLDYzMzI2NTQx
-OSwtMTA4Njg1Mzk2LDIwODAyNDIwNDEsLTU4OTMxODI0NywtMT
-E4NzYwMDYyMiwxOTI5MzUwNTIzLC0xMzY4MTMyMjM0LDExOTE1
-NzM1NDUsLTUyMDAzMTM4MF19
+eyJoaXN0b3J5IjpbLTk5MjYwNjg0MSwtNTU4NDA1ODg2LC01MT
+A2NjgyODQsLTIwNzU3Nzk4NiwtMTcwODMxNDkwMyw2MzMyNjU0
+MTksLTEwODY4NTM5NiwyMDgwMjQyMDQxLC01ODkzMTgyNDcsLT
+ExODc2MDA2MjIsMTkyOTM1MDUyMywtMTM2ODEzMjIzNCwxMTkx
+NTczNTQ1LC01MjAwMzEzODBdfQ==
 -->

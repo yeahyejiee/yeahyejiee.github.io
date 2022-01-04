@@ -54,8 +54,10 @@ toc_icon: "cog"
 ![../_images/densenet-block.svg](https://d2l.ai/_images/densenet-block.svg)
 
 ### (3) 특징
-- VGG와 같은 3X3
+- VGG와 같은 3X3 filter
+- 밀도블록(dense block): convolution block 구조, 각 conv block의 입력과 출력 연결
+- Transition layer: 모델의 복잡성 제어 (1x1 conv : 채널수 줄이기, averge
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MTg3OTAzOSwtMTA5NzQ5NjY5OSwtMT
-U4MzYwNTY4MF19
+eyJoaXN0b3J5IjpbNTM2Njg5MDc2LC0xMDk3NDk2Njk5LC0xNT
+gzNjA1NjgwXX0=
 -->

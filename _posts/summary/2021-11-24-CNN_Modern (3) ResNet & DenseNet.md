@@ -58,8 +58,11 @@ toc_icon: "cog"
 - 밀도블록(dense block): convolution block 구조, 각 conv block의 입력과 출력 연결
 - Transition layer: 모델의 복잡성 제어 (1x1 conv : 채널수 줄이기, average pooling 이용: 높이, 너비를 반으로)
 - 4개의 조밀한 Block
-- 출력: 입력채널
+- 출력: 입력채널 + conv block 개수 x 출력채널(growth rate)
+	- growth rate: conv block의 출력 채널 수는 출력의 증가를 제어
+
+### (4) transtition block
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTU2MjI3NzM5LC0xMDk3NDk2Njk5LC0xNT
-gzNjA1NjgwXX0=
+eyJoaXN0b3J5IjpbMTI5NTkyNzE4MCwtMTA5NzQ5NjY5OSwtMT
+U4MzYwNTY4MF19
 -->

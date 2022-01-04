@@ -42,8 +42,10 @@ toc_icon: "cog"
 
 
 ## 2. DenseNet
-
+### (1) ResNet과 비교
+- 이전 layer의 feature map을 다음 layer의 입력과 연결하는 방식
+- ResNet : 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc1NTY1NzYwNSwtMTA5NzQ5NjY5OSwtMT
-U4MzYwNTY4MF19
+eyJoaXN0b3J5IjpbMzMzMDE1NDMyLC0xMDk3NDk2Njk5LC0xNT
+gzNjA1NjgwXX0=
 -->

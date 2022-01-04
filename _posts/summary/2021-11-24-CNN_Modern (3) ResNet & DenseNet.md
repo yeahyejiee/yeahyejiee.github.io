@@ -23,9 +23,12 @@ toc_icon: "cog"
 - 박스부분 : residual mapping( input $x$를 제외한 나머지 학습)
 - x: residual connection(input $x$를 더하기 연산자로 전달)
 - 더 빠른 전파 가능
+
 ![../_images/resnet-block.svg](https://d2l.ai/_images/resnet-block.svg)
 
 ![../_images/resnet18.svg](https://d2l.ai/_images/resnet18.svg)
+
+
 ### (3) 특징
 - VGG의 3x3 conv layer를 따른다
 - 채널수 변경 -> 1x1 conv 도입 : 입력을 원하는 모양으로 바꾸기위해
@@ -41,6 +44,6 @@ toc_icon: "cog"
 ## 2. DenseNet
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzk1OTA5MDA3LC0xMDk3NDk2Njk5LC0xNT
-gzNjA1NjgwXX0=
+eyJoaXN0b3J5IjpbMTc1NTY1NzYwNSwtMTA5NzQ5NjY5OSwtMT
+U4MzYwNTY4MF19
 -->

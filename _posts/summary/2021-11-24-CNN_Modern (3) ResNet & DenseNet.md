@@ -44,16 +44,18 @@ toc_icon: "cog"
 ## 2. DenseNet
 ### (1) ResNet과 비교
 
-![../_images/densenet-block.svg](https://d2l.ai/_images/densenet-block.svg)
 - 이전 layer의 feature map을 다음 layer의 입력과 연결하는 방식
 - ResNet : feature map끼리 더하기를 해주는 방식 (정보들을 온전히 흘러가는 것을 방해)
 - DenseNet: feature map끼리 concatenation(연속)을 해주는 방식
-- 
+
 ![DenseNet — Organize everything I know documentation](https://oi.readthedocs.io/en/latest/_images/cnn_vs_resnet_vs_densenet.png)
 
 ### (2) convolution block
+![../_images/densenet-block.svg](https://d2l.ai/_images/densenet-block.svg)
 
+### (3) 특징
+- VGG와 같은 3X3
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc2NjgzOTcxMywtMTA5NzQ5NjY5OSwtMT
+eyJoaXN0b3J5IjpbLTE5MTg3OTAzOSwtMTA5NzQ5NjY5OSwtMT
 U4MzYwNTY4MF19
 -->

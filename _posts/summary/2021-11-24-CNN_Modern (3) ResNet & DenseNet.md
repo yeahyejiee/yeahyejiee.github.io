@@ -14,8 +14,11 @@ toc_icon: "cog"
 
 
 ## 1. ResNet
+
+### (1) degradation problem
+: 모델의 정확도가 어느 순간부터 정체되고 레이어가 더 깊어질수록 성능이 더 나빠짐.  ex) gradient 
 ## 2. DenseNet
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1ODM2MDU2ODBdfQ==
+eyJoaXN0b3J5IjpbMjE4Njg4NTA2LC0xNTgzNjA1NjgwXX0=
 -->

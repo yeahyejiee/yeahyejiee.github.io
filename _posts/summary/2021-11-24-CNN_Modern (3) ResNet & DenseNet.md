@@ -61,8 +61,11 @@ toc_icon: "cog"
 - 출력: 입력채널 + conv block 개수 x 출력채널(growth rate)
 	- growth rate: conv block의 출력 채널 수는 출력의 증가를 제어
 
-### (4) transtition block
+### (4) transition block
+batch normalization  ->  conv 1x1  -> Avg pool 2x2 ,stride 2
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI5NTkyNzE4MCwtMTA5NzQ5NjY5OSwtMT
-U4MzYwNTY4MF19
+eyJoaXN0b3J5IjpbLTE1NTA0NzYzNTYsLTEwOTc0OTY2OTksLT
+E1ODM2MDU2ODBdfQ==
 -->

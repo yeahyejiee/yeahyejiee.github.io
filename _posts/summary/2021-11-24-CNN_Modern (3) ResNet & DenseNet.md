@@ -20,6 +20,11 @@ toc_icon: "cog"
 
 ### (2) Residual block 
 ![../_images/residual-block.svg](https://d2l.ai/_images/residual-block.svg)
+- weight layer : residual mapping( input $x$를 제외한 나머지 학습)
+
+![../_images/resnet-block.svg](https://d2l.ai/_images/resnet-block.svg)
+
+![../_images/resnet18.svg](https://d2l.ai/_images/resnet18.svg)
 ### (3) 특징
 - VGG의 3x3 conv layer를 따른다
 - 채널수 변경 -> 1x1 conv 도입 : 입력을 원하는 모양으로 바꾸기위해
@@ -35,6 +40,6 @@ toc_icon: "cog"
 ## 2. DenseNet
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY0Nzk5NTc3NiwtMTA5NzQ5NjY5OSwtMT
+eyJoaXN0b3J5IjpbLTg2ODkxODcwNiwtMTA5NzQ5NjY5OSwtMT
 U4MzYwNTY4MF19
 -->

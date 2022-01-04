@@ -19,6 +19,7 @@ toc_icon: "cog"
 : 모델의 정확도가 어느 순간부터 정체되고 레이어가 더 깊어질수록 성능이 더 나빠짐.  ex) gradient vanishing, gradient exploding
 
 ### (2) Residual block 
+![../_images/residual-block.svg](https://d2l.ai/_images/residual-block.svg)
 ### (3) 특징
 - VGG의 3x3 conv layer를 따른다
 - 채널수 변경 -> 1x1 conv 도입 : 입력을 원하는 모양으로 바꾸기위해
@@ -26,10 +27,14 @@ toc_icon: "cog"
 - filter: 3x3 conv -> batch 정규화 -> Relu 활성화
 - GlobalAvepool 사용
 - $F(x)-x$(잔차 블록)가 0이 나올때까지
-- GoogleNet과 유사하지
+- GoogleNet과 유사하지만 더 단순하고 수정하기 쉬움
+- 입력은 여러 계층에 걸쳐 residual connection을 통해 더 빨리 전파
+
+
+
 ## 2. DenseNet
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA2MTk4OTg5MCwtMTA5NzQ5NjY5OSwtMT
+eyJoaXN0b3J5IjpbMTY0Nzk5NTc3NiwtMTA5NzQ5NjY5OSwtMT
 U4MzYwNTY4MF19
 -->

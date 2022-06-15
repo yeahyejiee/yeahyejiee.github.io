@@ -4,7 +4,7 @@
 <center><img src="https://user-images.githubusercontent.com/45659433/129288124-3ca60025-7beb-45a5-99e2-008efc1247b4.jpg" width="70%" height="70%"></center>  
 
 
- 
+ <center><img src="https://user-images.githubusercontent.com/45659433/129288124-3ca60025-7beb-45a5-99e2-008efc1247b4.jpg" width="70%" height="70%"></center>  
  
 ### 1. Achievement
 
@@ -87,7 +87,7 @@
 
 [Naver_Blog](https://blog.naver.com/dreamhigh151)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk4NDMyMTg0OCwtMTU2NjAzOTUxNiwtNT
+eyJoaXN0b3J5IjpbMTk0NzI2MTc5OSwtMTU2NjAzOTUxNiwtNT
 U4NDA1ODg2LC01MTA2NjgyODQsLTIwNzU3Nzk4NiwtMTcwODMx
 NDkwMyw2MzMyNjU0MTksLTEwODY4NTM5NiwyMDgwMjQyMDQxLC
 01ODkzMTgyNDcsLTExODc2MDA2MjIsMTkyOTM1MDUyMywtMTM2

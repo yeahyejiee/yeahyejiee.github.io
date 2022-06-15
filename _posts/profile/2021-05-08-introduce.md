@@ -67,10 +67,10 @@
 |MySQL|2020|DB에서 원하는 자료를 뽑을 수 있을 정도?(SQLD 자격증획득)|
 |[Arcgis](https://www.esrikr.com/products/arcgis/)|2021년|배워가는 중이며 시각화 및 기초적인 공간분석 가능|
 |[Qgis](https://qgis.org/ko/site/) |2021년 |처음 접했고 좌표변환 빛 시각화 가능|
-| [Tableau](https://www.tableau.com/ko-kr)  | 2022년 ~ | 제일 편한 프로그래밍 언어 |
+| [Tableau](https://www.tableau.com/ko-kr)  | 2022년 ~ | 새롭게 배우기 시작해서 프로젝트에 적용 |
 
 **그외**
-- EXCEL :컴퓨터활용능력 2급 획득
+- EXCEL 
 - POWERPOINT 
 - WORD  
   
@@ -87,7 +87,7 @@
 
 [Naver_Blog](https://blog.naver.com/dreamhigh151)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMwMTU5NzY3NCwtMTU2NjAzOTUxNiwtNT
+eyJoaXN0b3J5IjpbMTk4NDMyMTg0OCwtMTU2NjAzOTUxNiwtNT
 U4NDA1ODg2LC01MTA2NjgyODQsLTIwNzU3Nzk4NiwtMTcwODMx
 NDkwMyw2MzMyNjU0MTksLTEwODY4NTM5NiwyMDgwMjQyMDQxLC
 01ODkzMTgyNDcsLTExODc2MDA2MjIsMTkyOTM1MDUyMywtMTM2

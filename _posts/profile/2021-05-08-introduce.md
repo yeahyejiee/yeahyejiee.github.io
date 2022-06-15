@@ -36,7 +36,7 @@
  
 |Date  |Contents   |Organization |
 |--|:--:|:--:|
-|2021.12-2022.05| 서울시 1인가구 데이터 개발 및 분석 | 서울시 , sk[기사](https://m.yna.co.kr/view/AKR20211221171400004?section=news&site=popup_newsflash) 
+|2021.12-2022.05| 서울시 1인가구 데이터 개발 및 분석 [기사](https://m.yna.co.kr/view/AKR20211221171400004?section=news&site=popup_newsflash)  | 서울시 , sk텔레콤|
 |2020.11-2021.03| 쥬비스 데이터 마이닝 8법칙 (고객 맞춤 행동 추천) [more](https://drive.google.com/file/d/1swD9Y_UsqDfxHhgw1z5wr9DiWXnb-U8I/view?usp=sharing) |[쥬비스(Juvis)](http://www.juvis.co.kr/lab/index.do#fir_page)|
 |2020.01-2020.02| 2010년대 음원트렌드 분석 [more](https://drive.google.com/file/d/1DRFm9XANJaEcEGn0IyS34HTWHqQlg3sy/view?usp=sharing) |Samsung Multi Campus|
 |2019.09-2019.10| 노인의 집 추가 설치[more](https://drive.google.com/file/d/1IY-ZfI5TMfic3EBwJspt1qVd9fX8FNJl/view?usp=sharing) | 서울특별시 빅데이터 캠퍼스|
@@ -67,6 +67,7 @@
 |MySQL|2020|DB에서 원하는 자료를 뽑을 수 있을 정도?(SQLD 자격증획득)|
 |[Arcgis](https://www.esrikr.com/products/arcgis/)|2021년|배워가는 중이며 시각화 및 기초적인 공간분석 가능|
 |[Qgis](https://qgis.org/ko/site/) |2021년 |처음 접했고 좌표변환 빛 시각화 가능|
+| [Tableau](https://www.tableau.com/ko-kr)  | 2022년 ~ | 제일 편한 프로그래밍 언어 |
 
 **그외**
 - EXCEL :컴퓨터활용능력 2급 획득
@@ -86,9 +87,9 @@
 
 [Naver_Blog](https://blog.naver.com/dreamhigh151)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODM3MDg5OTA0LC0xNTY2MDM5NTE2LC01NT
-g0MDU4ODYsLTUxMDY2ODI4NCwtMjA3NTc3OTg2LC0xNzA4MzE0
-OTAzLDYzMzI2NTQxOSwtMTA4Njg1Mzk2LDIwODAyNDIwNDEsLT
-U4OTMxODI0NywtMTE4NzYwMDYyMiwxOTI5MzUwNTIzLC0xMzY4
-MTMyMjM0LDExOTE1NzM1NDUsLTUyMDAzMTM4MF19
+eyJoaXN0b3J5IjpbMTMwMTU5NzY3NCwtMTU2NjAzOTUxNiwtNT
+U4NDA1ODg2LC01MTA2NjgyODQsLTIwNzU3Nzk4NiwtMTcwODMx
+NDkwMyw2MzMyNjU0MTksLTEwODY4NTM5NiwyMDgwMjQyMDQxLC
+01ODkzMTgyNDcsLTExODc2MDA2MjIsMTkyOTM1MDUyMywtMTM2
+ODEzMjIzNCwxMTkxNTczNTQ1LC01MjAwMzEzODBdfQ==
 -->

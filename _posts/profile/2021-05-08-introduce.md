@@ -1,6 +1,8 @@
 
 
-
+### My PORTFOLIO
+ <center><img src="https://user-images.githubusercontent.com/45659433/173723450-32f5d2f0-4c4a-4eb8-a8b7-61babad6226e.png" width="100%" height="100%"></center>  
+---
 <center><img src="https://user-images.githubusercontent.com/45659433/129288124-3ca60025-7beb-45a5-99e2-008efc1247b4.jpg" width="70%" height="70%"></center>  
 
 
@@ -88,13 +90,12 @@
 
 ----
 
-#### My PORTFOLIO
- <center><img src="https://user-images.githubusercontent.com/45659433/173723450-32f5d2f0-4c4a-4eb8-a8b7-61babad6226e.png" width="100%" height="100%"></center>  
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcyODU1NjQ0MSwxOTQ3MjYxNzk5LC0xNT
-Y2MDM5NTE2LC01NTg0MDU4ODYsLTUxMDY2ODI4NCwtMjA3NTc3
-OTg2LC0xNzA4MzE0OTAzLDYzMzI2NTQxOSwtMTA4Njg1Mzk2LD
-IwODAyNDIwNDEsLTU4OTMxODI0NywtMTE4NzYwMDYyMiwxOTI5
-MzUwNTIzLC0xMzY4MTMyMjM0LDExOTE1NzM1NDUsLTUyMDAzMT
-M4MF19
+eyJoaXN0b3J5IjpbLTE4MjU5NzA0ODMsLTcyODU1NjQ0MSwxOT
+Q3MjYxNzk5LC0xNTY2MDM5NTE2LC01NTg0MDU4ODYsLTUxMDY2
+ODI4NCwtMjA3NTc3OTg2LC0xNzA4MzE0OTAzLDYzMzI2NTQxOS
+wtMTA4Njg1Mzk2LDIwODAyNDIwNDEsLTU4OTMxODI0NywtMTE4
+NzYwMDYyMiwxOTI5MzUwNTIzLC0xMzY4MTMyMjM0LDExOTE1Nz
+M1NDUsLTUyMDAzMTM4MF19
 -->

@@ -97,7 +97,7 @@ analytics:
   google:
     tracking_id          :
     measurement_id       : G-T0QNPRNMKG
-    anonymize_ip         : # true, false (default)
+    anonymize_ip         : true # true, false (default)
 
 
 # Site Author

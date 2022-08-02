@@ -311,3 +311,5 @@ defaults:
 category_dir: category/
 tag_dir: tag/
 
+
+theme: jekyll-theme-cayman

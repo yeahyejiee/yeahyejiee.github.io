@@ -1,8 +1,5 @@
 
 
-### My PORTFOLIO
- <center><img src="https://user-images.githubusercontent.com/45659433/173723450-32f5d2f0-4c4a-4eb8-a8b7-61babad6226e.png" width="100%" height="100%"></center>  
----
 <center><img src="https://user-images.githubusercontent.com/45659433/129288124-3ca60025-7beb-45a5-99e2-008efc1247b4.jpg" width="70%" height="70%"></center>  
 
 

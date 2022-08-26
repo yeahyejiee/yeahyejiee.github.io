@@ -1,16 +1,5 @@
 
-
-<img src="https://user-images.githubusercontent.com/45659433/129288124-3ca60025-7beb-45a5-99e2-008efc1247b4.jpg" width="35%" height="35%" align='left'><img src="https://user-images.githubusercontent.com/45659433/186822304-54c4d520-2d88-43ce-930f-296df79efae5.jpg"  width="35%" height="35%" align='right'>
-
----
-## Ye ji 
-### Data Analyst
-### statistics
-### Consumer Science
-### city big data
-
-
-
+<p align="center"><img src="https://user-images.githubusercontent.com/45659433/129288124-3ca60025-7beb-45a5-99e2-008efc1247b4.jpg" width="40%" height="40%">    <img src="https://user-images.githubusercontent.com/45659433/186825573-323609e3-4290-49ea-94c6-cea1f5b2c113.jpg" width="40%" height="40%"</p>
 
 ### 1. Achievement
 

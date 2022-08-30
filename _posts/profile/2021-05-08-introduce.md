@@ -37,7 +37,6 @@
 |2019.09 - 2019.10| 노인의 집 추가 설치[more](https://drive.google.com/file/d/1IY-ZfI5TMfic3EBwJspt1qVd9fX8FNJl/view?usp=sharing) | 서울특별시 빅데이터 캠퍼스|
 |2018.09 - 2019.02| 트위터 트렌드 분석을 통한 신제품 개발 [more](https://www.slideshare.net/BOAZbigdata/1-131319946) | BOAZ [instagram](https://www.instagram.com/boaz_bigdata/) [facebook](https://ko-kr.facebook.com/BOAZbigdata/)|
 
-
 ###  Certificate
  
 |Date  | Contents |Organization |
